@@ -1,0 +1,16 @@
+{
+    "Name": "PlanterSmallAlt",
+    "RequiredGear": [{"Item": "GEAR_RecycledCan", "Count": 4},{"Item": "GEAR_PlantNutrientsCrafted", "Count": 1}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_PlanterSmall",
+    "CraftedResultCount": 4,
+    "DurationMinutes": 15,
+    "CraftingAudio": "Play_AddSnowToPot",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

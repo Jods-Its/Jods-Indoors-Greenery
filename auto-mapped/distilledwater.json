@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_DistilledWater",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_DistilledWaterDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 5.0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_SndInvWaterBottle",
+                                "PutBackAudio" : "Play_SndInvWaterBottle",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.5,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, -0.1, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_DistilledWaterStackSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_DistilledWaterStackMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 10,
+                                "ChanceFull" : 0
+                             }							
+}

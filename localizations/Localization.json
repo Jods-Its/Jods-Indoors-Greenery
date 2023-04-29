@@ -1,0 +1,154 @@
+{
+    "GAMEPLAY_PlantNutrients" : {
+                            "English" : "Plant Nutrients",
+							"Spanish (Spain)" : "Nutrientes para plantas"
+    },
+    "GAMEPLAY_PlantNutrientsDescription" : {
+                            "English" : "An assorted mix of organic waste used as fertilizer.",
+							"Spanish (Spain)" : "Una variedad de residuos orgánicos utilizados como fertilizante."
+    },
+	"GAMEPLAY_PlantNutrientsCrafted" : {
+                            "English" : "Plant Nutrients",
+							"Spanish (Spain)" : "Nutrientes para plantas"
+    },
+    "GAMEPLAY_PlantNutrientsCraftedDescription" : {
+                            "English" : "Shredded birch bark that can be used as fertilizer.",
+							"Spanish (Spain)" : "Corteza de abedul molida que puede ser utilizada como fertilizante."
+    },
+    "GAMEPLAY_PlantWater" : {
+                            "English" : "'Rain Drops'",
+							"Spanish (Spain)" : "'Gotas de lluvia'"
+    },
+    "GAMEPLAY_PlantWaterDescription" : {
+                            "English" : "Distilled water, supposedly 'just like' rain water. Honestly? That sounds like a scam.",
+							"Spanish (Spain)" : "Agua destilada, supuestamente 'exactamente' como el agua de lluvia. Honestamente, suena a estafa."
+    },
+	"GAMEPLAY_DistilledWater" : {
+                            "English" : "Distilled water",
+							"Spanish (Spain)" : "Agua destilada"
+    },
+    "GAMEPLAY_DistilledWaterDescription" : {
+                            "English" : "Distilled water, perfect for gardening.",
+							"Spanish (Spain)" : "Agua destilada, perfecta para el uso en jardinería."
+    },
+	"GAMEPLAY_DistilledWaterStackSingle": {
+							"English" : "bottle.",
+							"Spanish (Spain)" : "botella."
+	},
+	"GAMEPLAY_DistilledWaterStackMultiple" : {
+							"English" : "bottles.",
+							"Spanish (Spain)" : "botellas."
+	},
+	"GAMEPLAY_PlanterSmall" : {
+                            "English" : "Can Planter",
+							"Spanish (Spain)" : "Maceta en lata"
+    },
+    "GAMEPLAY_PlanterSmallDescription" : {
+                            "English" : "A recycled can, full of dirt and nutrients. Ready to be used as a planter.",
+							"Spanish (Spain)" : "Una lata reciclada, llena de tierra y nutrientes. Lista para ser usada como maceta."
+    },
+	"GAMEPLAY_PlanterBig" : {
+                            "English" : "Pot Planter",
+							"Spanish (Spain)" : "Maceta en cazuela"
+    },
+    "GAMEPLAY_PlanterBigDescription" : {
+                            "English" : "A cooking pot, full of dirt and nutrients. Ready to be used as a planter.",
+							"Spanish (Spain)" : "Una cazuela, llena de tierra y nutrientes. Lista para ser usada como maceta."
+    },
+	"GAMEPLAY_PlanterRosehipSmall2" :{
+							"English" : "Rose Hip Planter",
+							"Spanish (Spain)" : "Maceta de escaramujo"
+	},
+	"GAMEPLAY_PlanterRosehipSmall2Description" : {
+							"English" : "A rose hip sapling, planted in a recycled can.",
+							"Spanish (Spain)" : "Un retoño de escaramujo, plantado en una lata."
+	},
+	"GAMEPLAY_PlanterRosehipSmall1" :{
+							"English" : "Rose Hip Planter",
+							"Spanish (Spain)" : "Maceta de escaramujo"
+	},
+	"GAMEPLAY_PlanterRosehipSmall1Description" : {
+							"English" : "A rose hip sapling, planted in a recycled can. Fully grown.",
+							"Spanish (Spain)" : "Un retoño de escaramujo, plantado en una lata. Completamente crecido."
+	},
+	"GAMEPLAY_PlanterRosehipBig2" :{
+							"English" : "Rose Hip Planter",
+							"Spanish (Spain)" : "Maceta de escaramujo"
+	},
+	"GAMEPLAY_PlanterRosehipBig2Description" : {
+							"English" : "A rose hip sapling, planted in a cooking pot.",
+							"Spanish (Spain)" : "Un retoño de escaramujo, plantado en una cazuela."
+	},
+	"GAMEPLAY_PlanterRosehipBig1" :{
+							"English" : "Rose Hip Planter",
+							"Spanish (Spain)" : "Maceta de escaramujo"
+	},
+	"GAMEPLAY_PlanterRosehipBig1Description" : {
+							"English" : "A rose hip sapling, planted in a cooking pot. Fully grown.",
+							"Spanish (Spain)" : "Un retoño de escaramujo, plantado en una cazuela. Completamente crecido."
+	},
+	"GAMEPLAY_PlanterReishiBig2" :{
+							"English" : "Reishi Mushroom Planter",
+							"Spanish (Spain)" : "Maceta de seta Reishi"
+	},
+	"GAMEPLAY_PlanterReishiBig2Description" : {
+							"English" : "Reishi spores, planted in a cooking pot.",
+							"Spanish (Spain)" : "Esporas de Reishi, plantadas en una cazuela."
+	},
+	"GAMEPLAY_PlanterReishiBig1" :{
+							"English" : "Reishi Mushroom Planter",
+							"Spanish (Spain)" : "Maceta de seta Reishi"
+	},
+	"GAMEPLAY_PlanterReishiBig1Description" : {
+							"English" : "Reishi spores, planted in a cooking pot. Fully grown.",
+							"Spanish (Spain)" : "Esporas de Reishi, plantadas en una cazuela. Completamente crecidas."
+	},
+	"GAMEPLAY_PlanterOldmanBig2" :{
+							"English" : "Lichen Planter",
+							"Spanish (Spain)" : "Maceta de liquen"
+	},
+	"GAMEPLAY_PlanterOldmanBig2Description" : {
+							"English" : "Lichen sorediums, planted in a cooking pot.",
+							"Spanish (Spain)" : "Soredios de liquen, plantados en una cazuela."
+	},
+	"GAMEPLAY_PlanterOldmanBig1" :{
+							"English" : "Lichen Planter",
+							"Spanish (Spain)" : "Maceta de liquen"
+	},
+	"GAMEPLAY_PlanterOldmanBig1Description" : {
+							"English" : "Lichen sorediums, planted in a cooking pot. Fully grown.",
+							"Spanish (Spain)" : "Soredios de liquen, plantados en una cazuela. Completamente crecidos."
+	},
+	"GAMEPLAY_PlanterCattailSmall2" :{
+							"English" : "Cat Tail Planter",
+							"Spanish (Spain)" : "Maceta de espadaña"
+	},
+	"GAMEPLAY_PlanterCattailSmall2Description" : {
+							"English" : "A cat tail head, planted in a recycled can.",
+							"Spanish (Spain)" : "Un cogollo de espadaña, plantado en una lata."
+	},
+	"GAMEPLAY_PlanterCattailSmall1" :{
+							"English" : "Cat Tail Planter",
+							"Spanish (Spain)" : "Maceta de espadaña"
+	},
+	"GAMEPLAY_PlanterCattailSmall1Description" : {
+							"English" : "A cat tail head, planted in a recycled can. Fully grown.",
+							"Spanish (Spain)" : "Un cogollo de espadaña, plantad0 en una lata. Completamente crecido."
+	},
+	"GAMEPLAY_PlanterCattailBig2" :{
+							"English" : "Cat Tail Planter",
+							"Spanish (Spain)" : "Maceta de espadaña"
+	},
+	"GAMEPLAY_PlanterCattailBig2Description" : {
+							"English" : "A cat tail head, planted in a cooking pot.",
+							"Spanish (Spain)" : "Un cogollo de espadaña, plantado en una cazuela."
+	},
+	"GAMEPLAY_PlanterCattailBig1" :{
+							"English" : "Cat Tail Planter",
+							"Spanish (Spain)" : "Maceta de espadaña"
+	},
+	"GAMEPLAY_PlanterCattailBig1Description" : {
+							"English" : "A cat tail head, planted in a cooking pot. Fully grown.",
+							"Spanish (Spain)" : "Un cogollo de espadaña, plantado en una cazuela. Completamente crecido."
+	}
+}

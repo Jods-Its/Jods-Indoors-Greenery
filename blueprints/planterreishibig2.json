@@ -1,0 +1,16 @@
+{
+    "Name": "PlanterReishiBig2",
+    "RequiredGear": [{"Item": "GEAR_PlanterBig", "Count": 2},{"Item": "GEAR_ReishiMushroom", "Count": 2},{"Item": "GEAR_PlantWater", "Count": 1}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_PlanterReishiBig2",
+    "CraftedResultCount": 2,
+    "DurationMinutes": 15,
+    "CraftingAudio": "Play_AddWaterToPot",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

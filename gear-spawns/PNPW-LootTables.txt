@@ -1,0 +1,9 @@
+loottable=LootTableMetalBox
+item=PlantNutrients w=7
+item=PlantWater w=7
+loottable=LootTableLocker
+item=PlantNutrients w=6
+item=PlantWater w=4
+loottable=LootTablePlasticBox
+item=PlantNutrients w=4
+item=PlantWater w=5

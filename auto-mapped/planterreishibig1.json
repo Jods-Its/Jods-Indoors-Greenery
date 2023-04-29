@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_PlanterReishiBig1",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_PlanterReishiBig1Description",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.30,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_CastIronPotPickup",
+                                "PutBackAudio" : "Play_CastIronPotPutDown",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.5,
+                                "InspectAngles" : [0, 180, 0],
+                                "InspectOffset" : [0, -0.1, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+	"ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingReishi",
+                                "Minutes" : 15,
+                                "YieldCounts" : [3,1],
+                                "YieldNames" : ["GEAR_ReishiMushroom", "GEAR_CookingPot"],
+                                "RequiredToolNames" : []
+                            }
+}
