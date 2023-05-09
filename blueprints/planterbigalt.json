@@ -10,7 +10,7 @@
     "CraftedResult": "GEAR_PlanterBig",
     "CraftedResultCount": 2,
     "DurationMinutes": 15,
-    "CraftingAudio": "Play_AddSnowToPot",
+    "CraftingAudio": "Play_HarvestingAcorns",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"
 }

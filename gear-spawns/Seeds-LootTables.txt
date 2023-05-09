@@ -1,0 +1,12 @@
+loottable=LootTableMetalBox
+item=SeedsBlue w=7
+item=SeedsSoap w=7
+item=SeedsHerbs w=7
+loottable=LootTableLocker
+item=SeedsBlue w=3
+item=SeedsSoap w=3
+item=SeedsHerbs w=3
+loottable=LootTablePlasticBox
+item=SeedsBlue w=5
+item=SeedsSoap w=5
+item=SeedsHerbs w=5

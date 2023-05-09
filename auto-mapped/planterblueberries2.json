@@ -1,23 +1,28 @@
 {
     "ModGenericComponent": {
-                                "DisplayNameLocalizationId" : "GAMEPLAY_PlantNutrients",
-                                "DescriptionLocalizatonId" : "GAMEPLAY_PlantNutrientsDescription",
+                                "DisplayNameLocalizationId" : "GAMEPLAY_PlanterBlueberries2",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_PlanterBlueberries2Description",
                                 "InventoryActionLocalizationId" : "",
-                                "WeightKG": 0.10,
+                                "WeightKG": 2.35,
                                 "DaysToDecay" : 0,
                                 "MaxHP" : 100,
                                 "InitialCondition" : "Perfect",
                                 "InventoryCategory" : "Material",
-                                "PickUpAudio" : "Play_SndInvDustingSulfur",
-                                "PutBackAudio" : "Play_SndInvDustingSulfur",
+                                "PickUpAudio" : "Play_SndInvToolboxMetalSmall",
+                                "PutBackAudio" : "Play_SndInvToolboxMetalSmall",
                                 "StowAudio" : "Play_InventoryStow",
                                 "WornOutAudio" : "",
                                 "InspectOnPickup" : true,
-                                "InspectDistance" : 0.5,
+                                "InspectDistance" : 1.0,
                                 "InspectAngles" : [0, 180, 0],
                                 "InspectOffset" : [0, -0.1, 0],
                                 "InspectScale" :  [1, 1, 1],
                                 "NormalModel" : "",
                                 "InspectModel" : ""
-                            }
+                            },
+    "ModEvolveBehaviour" : {
+                            "TargetItemName" : "GEAR_PlanterBlueberries1",
+                            "EvolveHours" : 288,
+                            "IndoorsOnly" : true
+                        }
 }

@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_ElectronicParts",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_ElectronicPartsDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 2.5,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_Fuse_Gear_Pickup",
+                                "PutBackAudio" : "Play_Fuse_Gear_Pickup",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.5,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_ElectronicPartsStackSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_ElectronicPartsStackMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 10,
+                                "ChanceFull" : 0
+                             }									
+}
