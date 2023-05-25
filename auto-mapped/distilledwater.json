@@ -3,7 +3,7 @@
                                 "DisplayNameLocalizationId" : "GAMEPLAY_DistilledWater",
                                 "DescriptionLocalizatonId" : "GAMEPLAY_DistilledWaterDescription",
                                 "InventoryActionLocalizationId" : "",
-                                "WeightKG": 5.0,
+                                "WeightKG": 0.5,
                                 "DaysToDecay" : 0,
                                 "MaxHP" : 100,
                                 "InitialCondition" : "Perfect",
@@ -24,7 +24,7 @@
                                 "SingleUnitTextId" : "GAMEPLAY_DistilledWaterStackSingle",
                                 "MultipleUnitTextId" : "GAMEPLAY_DistilledWaterStackMultiple",
                                 "StackSprite" : "",
-                                "UnitsPerItem" : 10,
-                                "ChanceFull" : 0
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 100
                              }							
 }
