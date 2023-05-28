@@ -1,5 +1,18 @@
-# Jods-Indoors-Greenery
-A mod for The Long Dark that allows simple farming mechanics. Interiors only. Open to suggestions!
+# Indoors Greenery
+![image](https://github.com/Jods-Its/Jods-Indoors-Greenery/assets/131678125/c371e884-37e3-44f5-ae29-d73979f8c05a)
+
+ > A mod for The Long Dark, by Hinterland Studios, that allows you to farm both vanilla plants and some custom plants. Open to sugestions!
+
+## Usage
+![image](https://github.com/Jods-Its/Jods-Indoors-Greenery/assets/131678125/7b28dbb9-ee55-40e0-8764-af47ec8fc843)
+
+> Find plant nutrients and distilled water all across great bear, or craft your own from renewable materials. Find seeds and various material for advanced farming.
+
+![image](https://github.com/Jods-Its/Jods-Indoors-Greenery/assets/131678125/1cf549fc-f9f5-4fc3-a4a7-353c4451087f)
+
+> Craft planters using recycled cans, cooking pots or metal boxes, fill them with dirt and start growing!
+
+
 
 Contents:
 
