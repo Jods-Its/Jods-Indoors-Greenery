@@ -1,0 +1,54 @@
+scene=FarmHouseABasement
+item=GEAR_PlantWater p=5.3543,0.9769,3.7542 r=5.7721,107.9019,2.5838 c=90
+item=GEAR_PlantWater p=5.4283,0.3153,3.6557 r=3.4004,140.7990,5.3330 c=60
+
+item=GEAR_PlantWater p=0.3080,1.5300,-3.7429 r=0.0000,301.8376,0.0000 c=100
+item=GEAR_PlantWater p=0.4670,1.5300,-3.6206 r=-0.0000,21.7160,-0.0000 c=50
+item=GEAR_PlantWater p=0.0234,1.5700,-3.6279 r=272.7361,4.4008,163.0426 c=100
+item=GEAR_PlantWater p=0.2772,1.5756,-3.3313 r=0.0000,296.6098,0.0000 c=50
+
+scene=BarnHouseA
+item=GEAR_PlantWater p=-0.2154,1.2191,6.0181 r=-0.0000,21.5609,-0.0000 c=90
+item=GEAR_PlantWater p=-7.1791,0.3109,-6.4142 r=0.0000,317.8340,0.0000 c=60
+item=GEAR_PlantWater p=0.9943,6.3216,5.7711 r=-0.0000,56.6128,-0.0000 c=30
+
+scene=RuralStoreA
+item=GEAR_PlantWater p=-2.8252,1.5210,-2.2809 r=270.0000,303.4138,0.0000 c=90
+item=GEAR_PlantWater p=-2.9452,0.9489,-2.0925 r=0.0000,332.3452,0.0000 c=60
+
+scene=RuralRegion
+item=GEAR_PlantWater p=2310.0508,54.8332,2225.8867 r=-0.0000,30.1403,-0.0000 c=90
+item=GEAR_PlantWater p=2302.8335,55.1190,2230.7183 r=354.4934,267.4362,353.2831 c=60
+
+item=GEAR_PlantWater p=2326.0190,53.2805,2248.7837 r=55.1926,264.3784,42.6697 c=100
+item=GEAR_PlantWater p=2325.7703,53.1173,2248.9817 r=7.3098,291.0231,330.1508 c=50
+
+scene=BarnHouseB
+item=GEAR_PlantWater p=-10.3851,0.5574,10.3659 r=-0.0000,40.3076,-0.0000 c=90
+item=GEAR_PlantWater p=-9.8378,-0.0057,10.4392 r=-0.0000,31.9029,-0.0000 c=60
+
+scene=MountainTownRegion
+item=GEAR_PlantWater p=601.2114,220.3125,1552.7004 r=90.0000,224.4083,0.0000 c=100
+item=GEAR_PlantWater p=601.5714,220.2725,1552.5835 r=0.0000,344.6329,0.0000 c=90
+item=GEAR_PlantWater p=601.2101,220.2725,1552.5308 r=0.0000,226.6019,0.0000 c=60
+item=GEAR_PlantWater p=601.1806,220.2725,1552.8829 r=-0.0000,64.7675,-0.0000 c=50
+item=GEAR_PlantWater p=601.3436,220.2725,1553.1083 r=0.0000,217.6344,0.0000 c=30
+
+scene=QuonsetGasStation
+item=GEAR_PlantWater p=4.6867,1.2011,0.6833 r=0.0000,217.9229,0.0000 c=90
+item=GEAR_PlantWater p=5.3295,0.4009,0.6042 r=-0.0000,169.7088,-0.0000 c=60
+item=GEAR_PlantWater p=4.9792,0.0519,0.7865 r=270.0000,244.0052,0.0000 c=30
+
+scene=ConvenienceStoreA
+item=GEAR_PlantWater p=0.5484,0.4009,0.9624 r=-0.0000,124.2061,-0.0000 c=90
+item=GEAR_PlantWater p=0.9308,0.4409,1.2603 r=90.0000,61.6466,0.0000 c=60
+item=GEAR_PlantWater p=0.3971,0.4009,1.0868 r=0.0000,256.1894,0.0000 c=30
+
+scene=BlackrockRegion
+item=GEAR_PlantWater p=-33.1322,128.2260,-766.8389 r=-0.0000,96.3657,-0.0000 c=60
+item=GEAR_PlantWater p=183.2303,180.0148,-244.7862 r=0.0000,258.0254,0.0000 c=70
+
+loottable=LootTableMetalBox
+item=PlantWater w=7
+loottable=LootTablePlasticBox
+item=PlantWater w=5

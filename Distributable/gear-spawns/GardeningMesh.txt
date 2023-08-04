@@ -1,0 +1,33 @@
+scene=FarmHouseABasement
+item=GEAR_GardeningMesh p=5.5219,0.0178,2.7340 r=-0.0000,1.8799,-0.0000 c=100
+item=GEAR_GardeningMesh p=5.3667,0.0178,3.1346 r=0.0000,312.5762,0.0000 c=60
+item=GEAR_GardeningMesh p=4.9394,0.2258,3.1654 r=284.9957,329.8517,-0.0000 c=20
+
+scene=BarnHouseA
+item=GEAR_GardeningMesh p=-0.5095,0.0178,6.7023 r=0.0000,260.0446,0.0000 c=80
+item=GEAR_GardeningMesh p=-0.4562,0.0178,6.3683 r=0.0000,240.8994,0.0000 c=40
+
+scene=RuralStoreA
+item=GEAR_GardeningMesh p=-2.8392,0.4468,-2.3158 r=0.0000,183.2323,0.0000 c=70
+item=GEAR_GardeningMesh p=-2.8483,0.4468,-1.8718 r=-0.0000,173.1031,-0.0000 c=35
+
+scene=BarnHouseB
+item=GEAR_GardeningMesh p=4.8916,4.4179,9.1191 r=-0.0000,19.6735,-0.0000 c=100
+item=GEAR_GardeningMesh p=4.9190,4.5878,9.5478 r=270.0000,338.8426,0.0000 c=60
+item=GEAR_GardeningMesh p=4.8394,4.5884,9.1531 r=-0.0000,46.0536,-0.0000 c=20
+
+scene=MountainTownRegion
+item=GEAR_GardeningMesh p=601.6203,220.2885,1553.5599 r=0.0000,271.1163,0.0000 c=100
+item=GEAR_GardeningMesh p=601.6221,220.4990,1553.5923 r=-0.0000,89.2849,-0.0000 c=50
+item=GEAR_GardeningMesh p=601.3716,220.4485,1553.6692 r=270.0000,67.9646,0.0000 c=25
+
+scene=QuonsetGasStation
+item=GEAR_GardeningMesh p=4.7080,0.0278,8.5798 r=-0.0000,13.7407,-0.0000 c=100
+item=GEAR_GardeningMesh p=4.9292,0.0278,8.5100 r=-0.0000,19.7738,-0.0000 c=100
+item=GEAR_GardeningMesh p=4.8488,0.2383,8.4888 r=0.0000,301.3110,0.0000 c=50
+item=GEAR_GardeningMesh p=5.1578,0.0278,8.4400 r=-0.0000,17.6047,-0.0000 c=25
+
+scene=ConvenienceStoreA
+item=GEAR_GardeningMesh p=-2.9907,0.0178,1.3730 r=-0.0000,38.7564,-0.0000 c=100
+item=GEAR_GardeningMesh p=-2.9712,0.2283,1.3887 r=0.0000,236.3789,0.0000 c=50
+item=GEAR_GardeningMesh p=-2.8209,0.1978,1.7564 r=270.0000,10.4983,0.0000 c=25

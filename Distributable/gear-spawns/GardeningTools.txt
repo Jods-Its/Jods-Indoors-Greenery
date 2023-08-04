@@ -1,0 +1,29 @@
+scene=FarmHouseABasement
+item=GEAR_GardeningTools p=5.4867,0.3144,4.1113 r=3.2589,24.8554,354.5796 c=80
+
+scene=BarnHouseA
+item=GEAR_GardeningTools p=2.7305,0.6919,-5.7123 r=-0.0000,82.1789,-0.0000 c=50
+
+scene=RuralStoreA
+item=GEAR_GardeningTools p=-2.7036,1.4960,-2.0700 r=0.0000,339.7157,0.0000 c=80
+
+scene=RuralRegion
+item=GEAR_GardeningToolsImprovised p=2311.0176,54.8932,2225.8865 r=8.2907,155.6129,167.3860 c=100
+
+scene=BarnHouseB
+item=GEAR_GardeningToolsImprovised p=-9.6251,0.5866,13.6626 r=345.8390,20.4981,278.7037 c=100
+
+scene=MountainTownRegion
+item=GEAR_GardeningTools p=595.2874,220.9009,1554.2998 r=355.7136,70.1009,357.8523 c=50
+
+scene=QuonsetGasStation
+item=GEAR_GardeningTools p=5.4631,1.4226,0.4996 r=-0.0000,53.7236,-0.0000 c=80
+item=GEAR_GardeningTools p=4.3734,1.9261,0.2822 r=-0.0000,79.5158,-0.0000 c=50
+
+scene=ConvenienceStoreA
+item=GEAR_GardeningTools p=1.4497,1.2280,2.9448 r=-0.0001,3.4745,90.0000 c=80
+
+loottable=LootTableToolChest
+item=GardeningTools w=2
+loottable=LootTableToolDrawer
+item=GardeningTools w=2

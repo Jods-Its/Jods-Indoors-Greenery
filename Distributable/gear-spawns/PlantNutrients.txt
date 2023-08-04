@@ -1,0 +1,63 @@
+scene=FarmHouseABasement
+item=GEAR_PlantNutrients p=5.5396,0.9672,3.7418 r=358.4503,341.5811,353.8700 c=90
+item=GEAR_PlantNutrients p=5.7336,0.9437,3.9193 r=353.7567,272.7273,0.9974 c=60
+item=GEAR_PlantNutrients p=5.4156,0.9996,3.8474 r=276.2832,342.4290,232.5292 c=30
+
+item=GEAR_PlantNutrients p=0.4258,1.5405,-3.4251 r=0.0000,249.7835,0.0000 c=100
+item=GEAR_PlantNutrients p=0.1202,1.5405,-3.2784 r=0.0000,345.8498,0.0000 c=50
+item=GEAR_PlantNutrients p=0.1686,1.5405,-3.3344 r=270.0000,342.4872,0.0000 c=100
+item=GEAR_PlantNutrients p=0.2230,1.5405,-3.6650 r=284.9994,186.3374,-0.0000 c=50
+
+scene=BarnHouseA
+item=GEAR_PlantNutrients p=-0.3518,1.2297,5.8045 r=0.0000,189.5954,0.0000 c=90
+item=GEAR_PlantNutrients p=-7.0120,0.3215,-5.9789 r=-0.0000,104.6939,-0.0000 c=60
+item=GEAR_PlantNutrients p=-7.2818,0.3215,-5.9981 r=-0.0000,145.8127,-0.0000 c=30
+item=GEAR_PlantNutrients p=0.7439,6.3321,5.7982 r=0.0000,236.6434,0.0000 c=15
+
+scene=RuralStoreA
+item=GEAR_PlantNutrients p=-2.6286,0.9515,-2.4167 r=90.0000,283.0393,0.0000 c=90
+item=GEAR_PlantNutrients p=-2.7006,1.0009,-2.2075 r=0.0000,346.7029,0.0000 c=60
+item=GEAR_PlantNutrients p=-2.8175,1.4813,-2.4515 r=-0.0000,13.2043,-0.0000 c=30
+
+scene=RuralRegion
+item=GEAR_PlantNutrients p=2310.7578,54.7162,2226.0964 r=329.9999,269.5710,0.0000 c=90
+item=GEAR_PlantNutrients p=2302.7158,55.1252,2230.8530 r=7.2008,73.1171,4.8553 c=60
+item=GEAR_PlantNutrients p=2303.1218,55.1232,2231.1240 r=315.0124,29.9453,1.6877 c=30
+
+item=GEAR_PlantNutrients p=2325.9214,53.1370,2249.0420 r=297.0342,344.5812,346.8493 c=100
+item=GEAR_PlantNutrients p=2325.7341,53.1660,2248.8928 r=356.4984,339.0598,11.7690 c=50
+item=GEAR_PlantNutrients p=2325.8137,53.1766,2248.8469 r=334.4028,342.7521,2.6006 c=100
+
+scene=BarnHouseB
+item=GEAR_PlantNutrients p=-10.1037,0.5679,10.2057 r=-0.0000,154.7440,-0.0000 c=90
+item=GEAR_PlantNutrients p=-9.5334,0.0050,10.5334 r=270.0000,69.4464,0.0000 c=60
+item=GEAR_PlantNutrients p=-9.7101,0.0051,10.6682 r=-0.0000,136.2249,-0.0000 c=30
+
+scene=MountainTownRegion
+item=GEAR_PlantNutrients p=601.6169,220.2831,1552.8733 r=270.0000,42.9703,0.0000 c=100
+item=GEAR_PlantNutrients p=601.3622,220.3031,1552.5858 r=284.9994,222.0179,-0.0001 c=90
+item=GEAR_PlantNutrients p=601.7211,220.2831,1552.7167 r=-0.0000,92.7177,-0.0000 c=50
+item=GEAR_PlantNutrients p=601.3445,220.2831,1552.9120 r=0.0000,305.8423,0.0000 c=60
+item=GEAR_PlantNutrients p=601.5657,220.2831,1553.0353 r=-0.0000,2.7606,-0.0000 c=30
+
+scene=QuonsetGasStation
+item=GEAR_PlantNutrients p=4.6097,1.2116,0.4151 r=0.0000,344.8560,0.0000 c=100
+item=GEAR_PlantNutrients p=4.3731,1.2116,0.5515 r=-0.0000,10.4663,-0.0000 c=90
+item=GEAR_PlantNutrients p=5.1986,0.4114,0.4656 r=-0.0000,26.4252,-0.0000 c=60
+item=GEAR_PlantNutrients p=4.3395,1.2116,0.6428 r=270.0000,33.1756,0.0000 c=30
+
+scene=ConvenienceStoreA
+item=GEAR_PlantNutrients p=0.8418,0.4114,1.1429 r=0.0000,319.2328,0.0000 c=100
+item=GEAR_PlantNutrients p=0.4803,0.4114,1.1718 r=270.0000,273.2260,0.0000 c=90
+item=GEAR_PlantNutrients p=0.7791,0.4114,0.9080 r=-0.0000,53.7484,-0.0000 c=60
+item=GEAR_PlantNutrients p=0.7408,0.0124,1.4497 r=270.0000,137.0467,0.0000 c=30
+
+scene=BlackrockRegion
+item=GEAR_PlantNutrients p=-33.2909,128.2365,-766.9956 r=0.0000,237.0306,0.0000 c=70
+item=GEAR_PlantNutrients p=183.0680,180.0253,-245.0993 r=-0.0000,115.5326,-0.0000 c=60
+item=GEAR_PlantNutrients p=182.9391,180.0253,-244.8997 r=-0.0000,75.1351,-0.0000 c=80
+
+loottable=LootTableMetalBox
+item=PlantNutrients w=7
+loottable=LootTablePlasticBox
+item=PlantNutrients w=4
