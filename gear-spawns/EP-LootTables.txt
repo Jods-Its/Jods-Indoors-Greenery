@@ -1,6 +1,0 @@
-loottable=LootTableToolChest
-item=ElectronicParts w=6
-loottable=LootTableToolChestDrawer
-item=ElectronicParts w=2
-loottable=LootTableWorkbench
-item=ElectronicParts w=3
