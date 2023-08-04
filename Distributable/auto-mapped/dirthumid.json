@@ -1,0 +1,23 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_DirtHumid",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_DirtHumidDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 2.30,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Tool",
+                                "PickUpAudio" : "PLAY_SNDINVTOOLBOXPLASTIC",
+                                "PutBackAudio" : "PLAY_SNDINVTOOLBOXPLASTIC",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.2,
+                                "InspectAngles" : [0, 90, -30],
+                                "InspectOffset" : [0, -0.1, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            }
+}

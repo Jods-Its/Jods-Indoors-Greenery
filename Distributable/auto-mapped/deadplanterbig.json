@@ -1,0 +1,23 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_DeadPlanterBig",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_DeadPlanterBigDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.20,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_SNDINVSKILLETPICKUP",
+                                "PutBackAudio" : "PLAY_SNDINVSKILLETPUTDOWN",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.5,
+                                "InspectAngles" : [-30, 0, 0],
+                                "InspectOffset" : [0, -0.1, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            }
+}

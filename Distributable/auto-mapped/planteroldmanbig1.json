@@ -1,0 +1,35 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_PlanterOldmanBig1",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_PlanterOldmanBig1Description",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.30,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_SNDINVSKILLETPICKUP",
+                                "PutBackAudio" : "PLAY_SNDINVSKILLETPUTDOWN",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.6,
+                                "InspectAngles" : [15, 180, 0],
+                                "InspectOffset" : [0, -0.1, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+	"ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingPlants",
+                                "Minutes" : 15,
+                                "YieldCounts" : [3,1],
+                                "YieldNames" : ["GEAR_OldMansBeardHarvested", "GEAR_DirtPot"],
+                                "RequiredToolNames" : []
+                            },
+    "ModEvolveBehaviour" : {
+                            "TargetItemName" : "GEAR_DeadPlanterBig",
+                            "EvolveHours" : 288,
+                            "IndoorsOnly" : false
+                        }							
+}

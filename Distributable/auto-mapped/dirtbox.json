@@ -1,0 +1,23 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_DirtBox",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_DirtBoxDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 2.20,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Tool",
+                                "PickUpAudio" : "Play_SndInvMetalContainer",
+                                "PutBackAudio" : "Play_SndInvMetalContainer",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.2,
+                                "InspectAngles" : [0, 90, -30],
+                                "InspectOffset" : [0, -0.1, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            }
+}

@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_SeedsHerbs",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_SeedsHerbsDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.1,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_SndInvJerky",
+                                "PutBackAudio" : "Play_SndInvJerky",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.6,
+                                "InspectAngles" : [90, 0, 180],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_BagSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_BagMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 100
+                             }								
+}

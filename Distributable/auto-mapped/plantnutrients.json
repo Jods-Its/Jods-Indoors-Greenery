@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_PlantNutrients",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_PlantNutrientsDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.2,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Random",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_SndInvDustingSulfur",
+                                "PutBackAudio" : "Play_SndInvDustingSulfur",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.6,
+                                "InspectAngles" : [0, 180, 0],
+                                "InspectOffset" : [0, -0.1, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_UseSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_UseMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 4,
+                                "ChanceFull" : 30
+                             }								
+}

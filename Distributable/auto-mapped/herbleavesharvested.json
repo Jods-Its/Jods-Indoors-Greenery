@@ -1,0 +1,35 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_HerbLeavesHarvested",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_HerbLeavesHarvestedDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 5.0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Food",
+                                "PickUpAudio" : "Play_SndInvPlantSmall",
+                                "PutBackAudio" : "Play_SndInvPlantSmall",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [-45, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_HerbLeavesHarvestedStackSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_HerbLeavesHarvestedStackMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 2,
+                                "ChanceFull" : 0
+                             },										
+    "ModEvolveBehaviour" : {
+                            "TargetItemName" : "GEAR_HerbLeavesDried",
+                            "EvolveHours" : 72,
+                            "IndoorsOnly" : true
+                        }
+}

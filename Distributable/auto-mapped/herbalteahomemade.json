@@ -1,0 +1,75 @@
+{
+    "ModFoodComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_HerbalTeaHomemade",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_HerbalTeaHomemadeDescription",
+                            "InventoryActionLocalizationId" : "GAMEPLAY_HerbalTeaHomemadeAction",
+                            "WeightKG": 0.1,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_TeaCupPickup",
+                            "PutBackAudio" : "Play_TeaCupPutDown",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.4,
+                            "InspectAngles" : [-30, 0, 0],
+                            "InspectOffset" : [0, -0.05, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : true,
+                            "CookingMinutes" : 8,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0,
+                            "CookingResult" : "",
+                            "BurntMinutes" : 30,
+                            "Type" : "Liquid",
+                            "CookingAudio" : "Play_BoilingLiquidLight",
+                            "StartCookingAudio" : "Play_PlaceTeaCup",
+
+                            "DaysToDecayOutdoors" : 0,
+                            "DaysToDecayIndoors" : 0,
+                            "Calories" : 100,
+                            "Servings" : 1,
+                            "EatingTime" : 5,
+                            "EatingAudio" : "Play_Slurping1",
+                            "EatingPackagedAudio" : "",
+                            "ThirstEffect" : 30,
+
+                            "FoodPoisoning" : 0,
+                            "FoodPoisoningLowCondition" : 0,
+                            "ParasiteRiskIncrements" : [],
+
+                            "Natural" : true,
+                            "Raw" : false,
+                            "Drink" : true,
+                            "Meat" : false,
+                            "Fish" : false,
+                            "Canned" : false,
+
+                            "Opening" : false,
+                            "OpeningWithCanOpener" : false,
+                            "OpeningWithKnife" : false,
+                            "OpeningWithHatchet" : false,
+                            "OpeningWithSmashing" : false,
+
+                            "AffectCondition" : true,
+                            "ConditionRestBonus" : 2,
+                            "ConditionRestMinutes" : 480,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 0,
+                            "RestFactorMinutes" : 0,
+
+                            "AffectCold" : true,
+                            "InstantColdChange" : 0,
+                            "ColdFactorMinutes" : 60,
+
+                            "ContainsAlcohol" : false,
+                            "AlcoholPercentage" : 0,
+                            "AlcoholUptakeMinutes" : 45
+                        }			
+}

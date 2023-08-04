@@ -1,0 +1,28 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_PlanterBurdockSmall2",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_PlanterBurdockSmall2Description",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.25,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_TINCANFULLPICKUP",
+                                "PutBackAudio" : "PLAY_TINCANFULLPUTDOWN",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.6,
+                                "InspectAngles" : [15, 180, 0],
+                                "InspectOffset" : [0, -0.1, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModEvolveBehaviour" : {
+                            "TargetItemName" : "GEAR_PlanterBurdockSmall1",
+                            "EvolveHours" : 240,
+                            "IndoorsOnly" : true
+                        }
+}

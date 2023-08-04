@@ -1,0 +1,33 @@
+{
+    "ModCookableComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_PreparedSoapberries",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_PreparedSoapberriesDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.1,
+                            "DaysToDecay" : 40,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvCup",
+                            "PutBackAudio" : "Play_SndInvCup",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.5,
+                            "InspectAngles" : [-30, 0, 0],
+                            "InspectOffset" : [0, -0.05, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : true,
+                            "CookingMinutes" : 60,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 1.0,
+                            "CookingResult" : "GEAR_JamSoapberry",
+                            "BurntMinutes" : 30,
+                            "Type" : "Liquid",
+                            "CookingAudio" : "Play_BoilingLiquidThickHeavy",
+                            "StartCookingAudio" : "Play_AddWaterToPot"
+                        }					
+}

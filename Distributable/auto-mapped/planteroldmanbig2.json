@@ -1,0 +1,28 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_PlanterOldmanBig2",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_PlanterOldmanBig2Description",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.25,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_SNDINVSKILLETPICKUP",
+                                "PutBackAudio" : "PLAY_SNDINVSKILLETPUTDOWN",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                               "InspectDistance" : 0.6,
+                                "InspectAngles" : [15, 180, 0],
+                                "InspectOffset" : [0, -0.1, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModEvolveBehaviour" : {
+                            "TargetItemName" : "GEAR_PlanterOldmanBig1",
+                            "EvolveHours" : 168,
+                            "IndoorsOnly" : true
+                        }
+}

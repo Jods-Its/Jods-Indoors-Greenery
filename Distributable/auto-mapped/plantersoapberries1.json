@@ -1,0 +1,35 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_PlanterSoapberries1",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_PlanterSoapberries1Description",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 2.40,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_SNDINVTOOLBOXPLASTIC",
+                                "PutBackAudio" : "PLAY_SNDINVTOOLBOXPLASTIC",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                               "InspectDistance" : 1.2,
+                                "InspectAngles" : [0, 90, -30],
+                                "InspectOffset" : [0, -0.1, 0],
+                                "InspectScale" :  [0.8, 0.8, 0.8],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+	"ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingPlants",
+                                "Minutes" : 20,
+                                "YieldCounts" : [25,1],
+                                "YieldNames" : ["GEAR_Berrysoap", "GEAR_DirtHumid"],
+                                "RequiredToolNames" : []
+                            },
+    "ModEvolveBehaviour" : {
+                            "TargetItemName" : "GEAR_DeadPlanterHumid",
+                            "EvolveHours" : 120,
+                            "IndoorsOnly" : false
+                        }								
+}

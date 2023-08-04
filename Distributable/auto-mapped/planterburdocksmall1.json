@@ -1,0 +1,35 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_PlanterBurdockSmall1",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_PlanterBurdockSmall1Description",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.30,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_TINCANFULLPICKUP",
+                                "PutBackAudio" : "PLAY_TINCANFULLPUTDOWN",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.8,
+                                "InspectAngles" : [15, 180, 0],
+                                "InspectOffset" : [0, -0.1, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+	"ModHarvestableBehaviour": {
+                                "Audio" : "PLAY_HARVESTINGBURDOCK",
+                                "Minutes" : 20,
+                                "YieldCounts" : [1,1],
+                                "YieldNames" : ["GEAR_Burdock", "GEAR_DirtCan"],
+                                "RequiredToolNames" : []
+                            },
+    "ModEvolveBehaviour" : {
+                            "TargetItemName" : "GEAR_DeadPlanterSmall",
+                            "EvolveHours" : 240,
+                            "IndoorsOnly" : false
+                        }								
+}

@@ -1,0 +1,40 @@
+{
+    "ModCookableComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_HerbLeavesDried",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_HerbLeavesDriedDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 5.0,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvPlantSmall",
+                            "PutBackAudio" : "Play_SndInvPlantSmall",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.4,
+                            "InspectAngles" : [-45, 0, 0],
+                            "InspectOffset" : [0, 0, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : true,
+                            "CookingMinutes" : 13,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0.25,
+                            "CookingResult" : "GEAR_HerbalTeaHomemade",
+                            "BurntMinutes" : 30,
+                            "Type" : "Liquid",
+                            "CookingAudio" : "PLAY_BOILINGLIQUIDLIGHT",
+                            "StartCookingAudio" : "PLAY_PUTINPOTWATER"
+                        },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_HerbLeavesDriedStackSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_HerbLeavesDriedStackMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 2,
+                                "ChanceFull" : 0
+                             }						
+}

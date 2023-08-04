@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_DeadMatter",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_DeadMatterDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.05,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_SndInvPlantSmall",
+                                "PutBackAudio" : "Play_SndInvPlantSmall",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [-45, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_UseSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_UseMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 100
+                             }							
+}

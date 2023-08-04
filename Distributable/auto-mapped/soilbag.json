@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_SoilBag",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_SoilBagDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Random",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_SNDINVFLOURPICKUP",
+                                "PutBackAudio" : "PLAY_SNDINVFLOURPUTBACK",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.0,
+                                "InspectAngles" : [0, -90, 0],
+                                "InspectOffset" : [0, -0.15, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_UseSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_UseMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 10,
+                                "ChanceFull" : 50
+                             }									
+}
