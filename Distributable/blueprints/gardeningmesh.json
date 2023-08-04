@@ -1,0 +1,17 @@
+{
+    "Name": "GardeningMesh",
+    "RequiredGear": [{"Item": "GEAR_GutDried", "Count": 2},{"Item": "GEAR_Line", "Count": 4}, {"Item": "GEAR_StringBundle", "Count": 2}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_SewingKit",
+	"OptionalTools": ["GEAR_HookAndLine"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_GardeningMesh",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 90,
+    "CraftingAudio": "PLAY_CRAFTINGCLOTH",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

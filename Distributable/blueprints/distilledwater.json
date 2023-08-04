@@ -1,0 +1,16 @@
+{
+    "Name": "DistilledWater",
+    "RequiredGear": [{"Item": "GEAR_WaterPurificationTablets", "Count": 1}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_DistilledWater",
+    "CraftedResultCount": 2,
+    "DurationMinutes": 5,
+    "CraftingAudio": "Play_WaterPurification",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

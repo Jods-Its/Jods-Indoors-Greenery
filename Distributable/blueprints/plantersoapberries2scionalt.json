@@ -1,0 +1,17 @@
+{
+    "Name": "PlanterSoapberries2ScionAlt",
+    "RequiredGear": [{"Item": "GEAR_PlanterHumid", "Count": 1},{"Item": "GEAR_SeedsSoapExtracted", "Count": 1},{"Item": "GEAR_DistilledWater", "Count": 1}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_GardeningTools",
+	"OptionalTools": ["GEAR_GardeningToolsImprovised"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_PlanterSoapberries2",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 30,
+    "CraftingAudio": "PLAY_PUTINPOTWATER",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

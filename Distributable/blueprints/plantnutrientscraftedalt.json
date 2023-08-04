@@ -1,0 +1,16 @@
+{
+    "Name": "PlantNutrientsCraftedAlt",
+    "RequiredGear": [{"Item": "GEAR_DeadMatter", "Count": 1}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_PlantNutrientsCrafted",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 15,
+    "CraftingAudio": "Play_HarvestingPlants",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "PreparedSoapberries",
+    "RequiredGear": [{"Item": "GEAR_BerrySoap", "Count": 20}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_PreparedSoapberries",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": "Play_HarvestingPlants",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

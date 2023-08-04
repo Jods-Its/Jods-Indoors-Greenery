@@ -1,0 +1,16 @@
+{
+    "Name": "ImprovisedGardeningTools",
+    "RequiredGear": [{"Item": "GEAR_ScrapMetal", "Count": 6},{"Item": "GEAR_Softwood", "Count": 1}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_Hammer",
+    "RequiredCraftingLocation": "Forge",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_GardeningToolsImprovised",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 180,
+    "CraftingAudio": "PLAY_CRAFTINGFORGE",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

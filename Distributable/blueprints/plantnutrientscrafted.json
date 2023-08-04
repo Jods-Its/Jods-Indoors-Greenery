@@ -1,0 +1,16 @@
+{
+    "Name": "PlantNutrientsCrafted",
+    "RequiredGear": [{"Item": "GEAR_BarkTinder", "Count": 1}, {"Item": "GEAR_CattailTinder", "Count": 1}, {"Item": "GEAR_RoseHip", "Count": 2}, {"Item": "GEAR_ReishiMushroom", "Count": 1}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_PlantNutrientsCrafted",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 15,
+    "CraftingAudio": "Play_HarvestingPlants",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
