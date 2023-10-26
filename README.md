@@ -1,55 +1,68 @@
 # Indoors Greenery
-![image](https://github.com/Jods-Its/Jods-Indoors-Greenery/blob/main/Images/EiWSGHx.jpg)
+![image](https://github.com/Jods-Its/Jods-Indoors-Greenery/blob/main/Images/ThumbIG.png)
 
  > A mod for The Long Dark, by Hinterland Studios, that allows you to farm both vanilla plants and some custom plants. Open to sugestions!
 
 ## Usage
-![image](https://github.com/Jods-Its/Jods-Indoors-Greenery/blob/main/Images/screen_b7d9bbc1-7498-41b7-9743-059e2ce41a95_hi.png)
+![image](https://github.com/Jods-Its/Jods-Indoors-Greenery/blob/main/Images/Items.png)
 
-> Find plant nutrients and distilled water all across great bear, or craft your own from renewable materials. Find seeds and various material for advanced farming.
+> Find various materials and tools all across great bear, or craft your own from renewable materials, both for simple and advanced farming.
 
-![image](https://github.com/Jods-Its/Jods-Indoors-Greenery/blob/main/Images/20230528094806_1.jpg)
+![GIF](https://github.com/Jods-Its/Jods-Indoors-Greenery/blob/main/Images/Process.gif)
 
-> Craft planters using recycled cans, cooking pots or metal boxes, fill them with dirt and start growing!
+> Find suitable recipients, like cans or pots. Fill them with soil and fertilize them. Use seeds, gardening tools and water to start growing plants.
 
 ![image](https://github.com/Jods-Its/Jods-Indoors-Greenery/blob/main/Images/screen_67d48674-7cd7-4cb0-bc4b-40f3068cc425_hi.png)
 
-> Within a few days, plants are ready to harvest and use.
+> Within a few days, plants are ready to harvest and use. But, be careful! Plants can wither too.
 
 ## Installation
  
- * Download the latest .modcomponent file in [releases](https://github.com/Jods-Its/Jods-Indoors-Greenery/releases), drop in mods folder and enjoy!
+ * Download the latest .zip file in [releases](https://github.com/Jods-Its/Jods-Indoors-Greenery/releases), unzip, drop contents in mods folder and enjoy!
  * Requires [ModComponent](https://github.com/dommrogers/ModComponent) and all its dependencies to work.
+ * Requires [Modders' Gear Toolbox](https://github.com/Jods-Its/Modders-Gear-Toolbox) to get the materials and tools for crafting.
 
 ## Contents
 
-**V.1.0.0 (Base):**
+**For both versions**
 
-- 2 Craftable planters, using recycled cans and cooking pots.
+- 4 types of planters: Can, pots, box and humid. Humid planters will require a humid kit.
 
-- 4 New materials: Plant Nutrients and Distilled water, both in man-made loot and craftable version.
+- Grow vanilla plants: Rosehip, reishi mushroom, old man's beard, cattail and burdock. These require can and pot planters.
 
-- Plant rose hips, reishi mushrooms, cat tails and old man's beard. Within a few days, you can regrow plants.
+- Gardening materials: Gardening water, soil bags, plant nutrients and gardening mesh. Except soil bags, every other item have crafteable counterparts.
 
-**V.2.0.0 (Custom Plants):**
+- Gardening tools: Both in manufactured and improvised forms.
 
-- Humid planter, a tiny greenhouse that allows growing out-of-season crops.
+- Grow custom plants: Herb mix, blueberries and soapberries. These require humid planters.
 
-- Find seed bags across Great Bear, in farms and convenience stores.
+- Dead plants can be harvested to obtain organic waste, useful for craftable plant nutrients.
 
-- Blueberries: Grow them in a humid planter. Harvest them to eat them as a light snack or prepare them to make jam.
+- Seeds: Find bags for custom plants or extract them from both vanilla and custom plants.
 
-- Soapberries: A native plant from Canada. Grow them in a humid planter. Harvest them to eat them as a light snack or prepare them to make jam. But be careful, they can be toxic in large quantities.
+- Charcoal filter: craftable, renewable counterpart of vanilla purification tablets.
 
-- Herbs: Grow them in a humid planter. A way to grow and prepare your own, homemade herbal tea.
+- Produce homemade herbal tea with herb mix and jam using preppared blueberries and soapberries.
 
-- 3 New materials: Metal box, mesh and electronic parts, needed to craft humid planters.
+- Some difficulty settings that allow you to start with some items, tweak growing times from default to fully realistic, or deactivate man-made materials to force crafting them yourself.
 
-- Charcoal filter, a renewable, craftable way to obtain purification tablets and distilled water.
+**DLC exclusive**
+
+- Grow potatoes and carrots. These need box planters.
+
+- Use prepared soapberries and blueberries to cook some tarts using the new cooking system.
 
 ## Troubleshooting
 
 For any doubt, question or technical support you might need, contact me throught the [TLD Modding](https://discord.com/invite/nb2jQez) Discord server and place a message at #jods.
+
+## Credits
+
+Turkish localization by [Elderly-Emre](https://github.com/Elderly-Emre).
+
+Russian localization by [Tyler-Sky](https://github.com/Tyler-Sky).
+
+German localization by [Nixitube](https://github.com/NixiTube)
 
 ## Videos 
 
