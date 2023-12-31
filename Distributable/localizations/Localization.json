@@ -141,8 +141,7 @@
 							"German" : "flaschen",
 							"Turkish": "Şişeler",
 							"Russian": "бутылки.",
-							"Italian": "Bottiglie"
-							
+							"Italian": "Bottiglie"				
 	},
 	"GAMEPLAY_HumidKit" : {
                             "English" : "Humid Kit",
@@ -181,8 +180,8 @@
 							"Spanish (Spain)" : "rollo",
 							"German" : "rolle",
 							"Turkish": "rulo",
-							"Russian": "рулон"
-							"Italian": "rotolo",
+							"Russian": "рулон",
+							"Italian": "rotolo"
     },
     "GAMEPLAY_GMMultiple" : {
                             "English" : "rolls",
@@ -286,7 +285,7 @@
 							"Spanish (Spain)" : "Un kit de humidificación, lleno de tierra. Con algo de fertilizante se podría convertir en una maceta.",
 							"German" : "Ein Feuchtset, voll mit Erde und Dünger. Könnte als Pflanzgefäß verwendet werden.",
 							"Turkish": "Toprakla dolu nemli bir kit. Biraz gübre ile saksı olarak kullanılabilir.",
-							"Russian": "Увлажнитель полный почвы. С удобрением это можно использовать для посадки."
+							"Russian": "Увлажнитель полный почвы. С удобрением это можно использовать для посадки.",
 	    						"Italian": "Un kit di umidità, riempita di terra. Con un po' di fertilizzante potresti usarlo come una fioriera"
     },
 	"GAMEPLAY_DeadPlanterSmall" : {
@@ -519,14 +518,14 @@
 							"German" : "Lackporling Pflanzgefäß",
 							"Turkish": "Reishi Mantarı Saksısı",
 							"Russian": "Гриб рейши",
-							"Italian". "Fioriera di funghi Reishi"
+							"Italian": "Fioriera di funghi Reishi"
 	},
 	"GAMEPLAY_PlanterReishiBig1Description" : {
 							"English" : "Reishi spores, planted in a cooking pot. Fully grown.",
 							"Spanish (Spain)" : "Esporas de Reishi, plantadas en una cazuela. Completamente crecidas.",
 							"German" : "Lackporling Sporen, in einen Kochtopf gepflanzt. Komplett Ausgewachsen.",
 							"Turkish": "Bir tencereye ekilen Reishi sporları. Tam büyümüş.",
-							"Russian": "Полностью выросший гриб рейши в кастрюльке."
+							"Russian": "Полностью выросший гриб рейши в кастрюльке.",
 							"Italian": "Spore di Reishi, piantate in una pentola da cucina. Completamente cresciute."
 	},
 	"GAMEPLAY_PlanterOldmanBig2" :{
@@ -784,6 +783,7 @@
 							"Turkish": "Nemli bir kite ekilmiş bitki tohumları karışımı. Tam büyümüş.",
 							"Russian": "Зрелые травы созревшие в увлажнителе.",
 							"Italian": "Un mix di semi di erba, piantati in un kit di umidità. Completamente cresciute."
+	},
 	"GAMEPLAY_PlanterCarrot2" :{
 							"English" : "Carrot Planter",
 							"Spanish (Spain)" : "Maceta de zanahoria",
@@ -878,7 +878,7 @@
 							"German" : "haufen.",
 							"Turkish": "yığın",
 							"Russian": "горсть.",
-							"Italian". "mucchio."
+							"Italian": "mucchio."
 	},
 	"GAMEPLAY_BlueberriesStackMultiple" : {
 							"English" : "heaps.",
@@ -901,7 +901,7 @@
 							"Spanish (Spain)" : "Arándanos aplastados que pueden usarse para cocinar un producto dulce.",
 							"German" : "Zerquetschte Blaubeeren, die zum Kochen eines süßen Produkts verwendet werden können.",
 							"Turkish": "Tatlı bir ürün pişirmek için kullanılabilecek ezilmiş yaban mersini.",
-							"Russian": "Дроблёная черника, готовая для приготовления чего-то сладного."
+							"Russian": "Дроблёная черника, готовая для приготовления чего-то сладного.",
 							"Italian": "Mirtilli schiacciati che possono essere usati per cucinare un prodotto dolce."
 	},
 	"GAMEPLAY_JamBlueberry" :{
@@ -1141,7 +1141,7 @@
 							"Spanish (Spain)" : "Un bote con semillas de arándano. Úsalas para crecer nuevas plantas.",
 							"German" : "Ein Glas Blaubeersamen. Verwenden es, um neue Pflanzen zu züchten.",
 							"Turkish": "Bir kavanoz yaban mersini tohumu. Onları yeni bitkiler yetiştirmek için kullanın.",
-							"Russian": "Баночка семян черники. Используйте её для посадки."
+							"Russian": "Баночка семян черники. Используйте её для посадки.",
 							"Italian": "Un barattolo di semi di mirtilli. Usali per coltivare nuove piante."
 	},
 	"GAMEPLAY_SeedsBurdockExtracted" :{
@@ -1157,7 +1157,7 @@
 							"Spanish (Spain)" : "Un bote con semillas de bardana. Úsalas para crecer nuevas plantas.",
 							"German" : "Ein Glas Klettensamen. Verwenden es, um neue Pflanzen zu züchten.",
 							"Turkish": "Bir kavanoz dulavratotu tohumu. Bunları yeni bitkiler yetiştirmek için kullanın.",
-							"Russian": "Баночка семян лопуха. Используйте её для посадки."
+							"Russian": "Баночка семян лопуха. Используйте её для посадки.",
 							"Italian": "Un barattolo di semi di bardana. Usali per coltivare nuove piante."
 	},	
 	"GAMEPLAY_SeedsHerbExtracted" :{
