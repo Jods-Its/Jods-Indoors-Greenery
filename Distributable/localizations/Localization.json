@@ -1,20 +1,23 @@
 {
 	"GAMEPLAY_CarbonFilter" : {
-                            "English" : "Charcoal Filter",
+							"English" : "Charcoal Filter",
+							"French (France)" : "Filtre à Charbon",
 							"Spanish (Spain)" : "Filtro de carbón",
 							"German" : "Holzkohlefilter",
 							"Turkish": "Kömür Filtresi",
 							"Russian": "Угольный фильтр"
-    },
-    "GAMEPLAY_CarbonFilterDescription" : {
-                            "English" : "A filter made out of charcoal and a piece of cloth. Use this to purify water or even distill it.",
+	},
+	"GAMEPLAY_CarbonFilterDescription" : {
+							"English" : "A filter made out of charcoal and a piece of cloth. Use this to purify water or even distill it.",
+							"French (France)" : "Un filtre fabriqué à partir de charbon et de tissu. A utiliser pour purifier de l'eau ou même la distiller.",
 							"Spanish (Spain)" : "Un filtro hecho de carbón vegetal y un poco de tela. Úsalo para purificar agua e incluso destilarla.",
 							"German" : "Ein Filter hergestellt aus Holzkohle und einem stück Stoff. Wird benutzt um Wasser zu Reinigen oder sogar zu destillieren.",
 							"Turkish": "Kömür ve bir bez parçasından yapılmış bir filtre. Suyu arıtmak ve hatta damıtmak için bunu kullanın.",
 							"Russian": "Фильтр из угля и куска ткани. Используйте для очистки воды или даже дистилляции."
-    },
+	},
 	"GAMEPLAY_CarbonFilterStackSingle": {
 							"English" : "filter.",
+							"French (France)" : "filtre.",
 							"Spanish (Spain)" : "filtro.",
 							"German" : "filter.",
 							"Turkish": "filtre",
@@ -22,55 +25,63 @@
 	},
 	"GAMEPLAY_CarbonFilterStackMultiple" : {
 							"English" : "filters.",
+							"French (France)" : "filtres.",
 							"Spanish (Spain)" : "filtros.",
 							"German" : "filter.",
 							"Turkish": "filtreler",
 							"Russian": "фильтры."
 	},		
-    "GAMEPLAY_PlantNutrients" : {
-                            "English" : "Plant Nutrients",
+	"GAMEPLAY_PlantNutrients" : {
+							"English" : "Plant Nutrients",
+							"French (France)" : "Engrais",
 							"Spanish (Spain)" : "Nutrientes para plantas",
 							"German" : "Pflanzennährstoffe",
 							"Turkish": "Bitki Gübresi",
 							"Russian": "Удобрения"
-    },
-    "GAMEPLAY_PlantNutrientsDescription" : {
-                            "English" : "An assorted mix of organic waste used as fertilizer.",
+	},
+	"GAMEPLAY_PlantNutrientsDescription" : {
+							"English" : "An assorted mix of organic waste used as fertilizer.",
+							"French (France)" : "Un assortiment de déchets organiques utilisé comme fertilisant.",
 							"Spanish (Spain)" : "Una variedad de residuos orgánicos utilizados como fertilizante.",
 							"German" : "Eine sortierte Mischung aus organischen Abfällen, die als Dünger verwendet wird",
 							"Turkish": "Gübre olarak kullanılan çeşitli organik atık karışımı",
 							"Russian": "Разнообразие органических отходов, используемых в качестве удобрения."
-    },
-    "GAMEPLAY_SoilBag" : {
-                            "English" : "Soil Bag",
+	},
+	"GAMEPLAY_SoilBag" : {
+							"English" : "Soil Bag",
+							"French (France)" : "Sac de Terre",
 							"Spanish (Spain)" : "Bolsa de tierra",
 							"German" : "Sack Erde",
 							"Turkish": "Toprak Çuvalı",
 							"Russian": "Мешок грунта"
-    },
-    "GAMEPLAY_SoilBagDescription" : {
-                            "English" : "A hemp bag, full of dirt. Perfect for gardening uses.",
+	},
+	"GAMEPLAY_SoilBagDescription" : {
+							"English" : "A hemp bag, full of dirt. Perfect for gardening uses.",
+							"French (France)" : "Un sac en toile de chanvre, plein de terre. Parfait pour jardiner.",
 							"Spanish (Spain)" : "Una bolsa de cáñamo llena de tierra. Perfecta para usarse en jardinería.",
 							"German" : "Ein Hanfsack, voll Erde. Perfect für den Gartengebrauch.",
 							"Turkish": "İçi toprak dolu bir çuval. Bahçe işleri için mükemmel.",
 							"Russian": "Пеньковый мешок с землёй. Идеально для садоводства."
-    },
+	},
 	"GAMEPLAY_PlantNutrientsCrafted" : {
-                            "English" : "Plant Nutrients",
+							"English" : "Plant Nutrients",
+							"French (France)" : "Engrais",
 							"Spanish (Spain)" : "Nutrientes para plantas",
 							"German" : "Pflanzennährstoffe",
 							"Turkish": "Bitki Gübresi",
 							"Russian": "Удобрения"
-    },
-    "GAMEPLAY_PlantNutrientsCraftedDescription" : {
-                            "English" : "A bunch of organic waste that can be used as fertilizer.",
+	},
+	"GAMEPLAY_PlantNutrientsCraftedDescription" : {
+							"English" : "A bunch of organic waste that can be used as fertilizer.",
+							"French (France)" : "Un assortiment de déchets organiques utilisé comme fertilisant.",
 							"Spanish (Spain)" : "Un puñado de desechos orgánicos que pueden ser utilizados como fertilizante.",
 							"German" : "Ein Haufen organischer Abfälle, die als Dünger verwendet werden können.",
 							"Turkish": "Gübre olarak kullanılabilen kıyılmış huş ağacı kabuğu",
 							"Russian": "Разнообразие органических отходов, используемых в качестве удобрения."
-    },
+	},
 	"GAMEPLAY_UseSingle" :{
 							"English" : "use",
+							"French (France)" : "utiliser",
 							"Spanish (Spain)" : "uso",
 							"German" : "benutzen",
 							"Turkish": "Kullan",
@@ -78,41 +89,47 @@
 	},
 	"GAMEPLAY_UseMultiple" :{
 							"English" : "uses",
+							"French (France)" : "utiliser",
 							"Spanish (Spain)" : "usos",
 							"German" : "verwendungen",
 							"Turkish": "kullanımlar",
 							"Russian": "использовать"
 	},
-    "GAMEPLAY_PlantWater" : {
-                            "English" : "'Rain Drops'",
+	"GAMEPLAY_PlantWater" : {
+							"English" : "'Rain Drops'",
+							"French (France)" : "'Eau de Pluie'",
 							"Spanish (Spain)" : "'Gotas de lluvia'",
 							"German" : "'Regentropfen'",
 							"Turkish": "'Yağmur Damlaları'",
 							"Russian": "'Дождевая вода'"
-    },
-    "GAMEPLAY_PlantWaterDescription" : {
-                            "English" : "Distilled water, supposedly 'just like' rain water. Honestly? That sounds like a scam.",
+	},
+	"GAMEPLAY_PlantWaterDescription" : {
+							"English" : "Distilled water, supposedly 'just like' rain water. Honestly? That sounds like a scam.",
+							"French (France)" : "Eau distillée, supposément 'identique' à l'eau de pluie. Honnêtement? Cela ressemble à une arnaque. ",
 							"Spanish (Spain)" : "Agua destilada, supuestamente 'exactamente' como el agua de lluvia. ¿¿Honestamente? suena a estafa.",
 							"German" : "Destilliertes Wasser, angeblich „genau wie“ Regenwasser. Ehrlich? Das klingt nach Betrug.",
 							"Turkish": "Damıtılmış su, sözde 'tıpkı' yağmur suyu gibi. Açıkçası? Bu bir aldatmaca gibi geliyor",
 							"Russian": "Дистиллированная вода, вероятно 'точь-в-точь как дождевая вода'. Честно? Это звучит как мошенничество."
-    },
+	},
 	"GAMEPLAY_DistilledWater" : {
-                            "English" : "Distilled water",
+							"English" : "Distilled water",
+							"French (France)" : "Eau distillée",
 							"Spanish (Spain)" : "Agua destilada",
 							"German" : "Destilliertes Wasser",
 							"Turkish": "Arıtılmış su",
 							"Russian": "Дистиллированная вода"
-    },
-    "GAMEPLAY_DistilledWaterDescription" : {
-                            "English" : "Distilled water, perfect for gardening.",
+	},
+	"GAMEPLAY_DistilledWaterDescription" : {
+							"English" : "Distilled water, perfect for gardening.",
+							"French (France)" : "Eau distillée, parfaite pour jardiner.",
 							"Spanish (Spain)" : "Agua destilada, perfecta para el uso en jardinería.",
 							"German" : "Destilliertes Wasser, perfekt für die Gartenarbeit.",
 							"Turkish": "Damıtılmış su, bahçecilik için mükemmel",
 							"Russian": "Дистиллированная вода, идеально для садоводства."
-    },
+	},
 	"GAMEPLAY_DistilledWaterStackSingle": {
 							"English" : "bottle.",
+							"French (France)" : "bouteille.",
 							"Spanish (Spain)" : "botella.",
 							"German" : "flasche",
 							"Turkish": "Şişe",
@@ -120,6 +137,7 @@
 	},
 	"GAMEPLAY_DistilledWaterStackMultiple" : {
 							"English" : "bottles.",
+							"French (France)" : "bouteilles.",
 							"Spanish (Spain)" : "botellas.",
 							"German" : "flaschen",
 							"Turkish": "Şişeler",
@@ -127,260 +145,297 @@
 							
 	},
 	"GAMEPLAY_HumidKit" : {
-                            "English" : "Humid Kit",
+							"English" : "Humid Kit",
+							"French (France)" : "Kit d'Humidification",
 							"Spanish (Spain)" : "Kit de humidificación",
 							"German" : "Feuchtset",
 							"Turkish": "Nemlendirici Kit",
 							"Russian": "Увлажняющий комплект"
-    },
-    "GAMEPLAY_HumidKitDescription" : {
-                            "English" : "A box filled with materials needed for growing out of season plants.",
+	},
+	"GAMEPLAY_HumidKitDescription" : {
+							"English" : "A box filled with materials needed for growing out of season plants.",
+							"French (France)" : "Une boite contenant des matériaux nécessaires pour cultiver des plantes hors-saison.",
 							"Spanish (Spain)" : "Una caja llena de materiales necesarios para cultivar plantas fuera de temporada.",
 							"German" : "Eine Kiste gefüllt mit Materialien, die für den Anbau von Pflanzen außerhalb der Saison benötigt werden.",
 							"Turkish": "Mevsim dışı bitkileri yetiştirmek için gerekli malzemelerle dolu bir kutu.",
 							"Russian": "Коробка, наполненная материалами, необходимыми для выращивания несезонных растений."
-    },
+	},
 	"GAMEPLAY_GardeningMesh" : {
-                            "English" : "Gardening Mesh",
+							"English" : "Gardening Mesh",
+							"French (France)" : "Filet de jardin",
 							"Spanish (Spain)" : "Malla de jardinería",
 							"German" : "Gartennetz",
 							"Turkish": "Örgü Ağ",
 							"Russian": "Садовая сетка"
-    },
-    "GAMEPLAY_GardeningMeshDescription" : {
-                            "English" : "A large mesh sheet, like those used to make greenhouses.",
+	},
+	"GAMEPLAY_GardeningMeshDescription" : {
+							"English" : "A large mesh sheet, like those used to make greenhouses.",
+							"French (France)" : "Un filet très large, comme ceux utilisés en serre.",
 							"Spanish (Spain)" : "Una gran lámina de malla, cómo las que se usan para hacer invernaderos.",
 							"German" : "Eine große Netzplane, wie die, die zum Bau von Gewächshäusern verwendet werden.",
 							"Turkish": "Sera yapımında kullanılanlar gibi büyük bir örgü ağ tabakası.",
 							"Russian": "Большое полотно сетки, вроде тех, из которых делают теплицы."
-    },
+	},
 	"GAMEPLAY_GMSingle" : {
-                            "English" : "roll",
+							"English" : "roll",
+							"French (France)" : "rouleau",
 							"Spanish (Spain)" : "rollo",
 							"German" : "rolle",
 							"Turkish": "rulo",
 							"Russian": "рулон"
-    },
-    "GAMEPLAY_GMMultiple" : {
-                            "English" : "rolls",
+	},
+	"GAMEPLAY_GMMultiple" : {
+							"English" : "rolls",
+							"French (France)" : "rouleaux",
 							"Spanish (Spain)" : "rollos",
 							"German" : "rollen",
 							"Turkish": "rulolar",
 							"Russian": "рулоны"
-    },
+	},
 	"GAMEPLAY_GardeningTools" : {
-                            "English" : "Gardening Tools",
+							"English" : "Gardening Tools",
+							"French (France)" : "Outils de Jardinage",
 							"Spanish (Spain)" : "Herramientas de jardinería",
 							"German" : "Gartengeräte",
 							"Turkish": "Bahçe Aletleri",
 							"Russian": "Садовые инструменты"
 							
-    },
-    "GAMEPLAY_GardeningToolsDescription" : {
-                            "English" : "A spade, a rake and a bunch of other useful things for your gardening needs.",
+	},
+	"GAMEPLAY_GardeningToolsDescription" : {
+							"English" : "A spade, a rake and a bunch of other useful things for your gardening needs.",
+							"French (France)" : "Une bêche, un râteau et d'autres choses utiles pour jardiner.",
 							"Spanish (Spain)" : "Una pala, un rastrillo y un puñado de otras cosas útiles para tus necesidades de jardinería.",
 							"German" : "Ein Spaten, eine Rechen und viele andere nützliche Dinge für deinen Gartenbedarf.",
 							"Turkish": "Bir kürek, bir tırmık ve bahçe ihtiyaçlarınız için bir sürü başka faydalı şey.",
 							"Russian": "Лопатка, грабельки и другие полезные вещи для ваших садовых нужд."
-    },
+	},
 	"GAMEPLAY_GardeningToolsImprovised" : {
-                            "English" : "Improvised Gardening Tools",
+							"English" : "Improvised Gardening Tools",
+							"French (France)" : "Outils de Jardinage Improvisés",
 							"Spanish (Spain)" : "Herramientas de jardinería improvisadas",
 							"German" : "Improvisierte Gartengeräte",
 							"Turkish": "Doğaçlama Bahçe Aletleri",
 							"Russian": "Импровизированные садовые инструменты"
-    },
-    "GAMEPLAY_GardeningToolsImprovisedDescription" : {
-                            "English" : "A spade and a rake, made out of scrap and some wood. Should be more than enough.",
+	},
+	"GAMEPLAY_GardeningToolsImprovisedDescription" : {
+							"English" : "A spade and a rake, made out of scrap and some wood. Should be more than enough.",
+							"French (France)" : "Une bêche et un rateau, fabriqué de métaux et de bois de récupération. Cela devrais être suffisant.",
 							"Spanish (Spain)" : "Una pala y un rastrillo, hechos de chatarra y algo de madera. Debería ser más que suficiente.",
 							"German" : "Ein Spaten und ein Rechen, hergestellt aus Schrott und etwas Holz. Sollte mehr als genug sein.",
 							"Turkish": "Bir kürek ve tırmık, hurda ve biraz tahtadan yapılmış. Yeter de artar bile.",
 							"Russian": "Лопатка и грабельки, сделанные из хлама. Должно быть более чем достаточно."
-    },		
+	},		
 	"GAMEPLAY_DirtCan" : {
-                            "English" : "Canned Dirt",
+							"English" : "Canned Dirt",
+							"French (France)" : "Conserve de Terre",
 							"Spanish (Spain)" : "Tierra enlatada",
 							"German" : "Dose voll Erde",
 							"Turkish": "Toprak Dolu Konserve",
 							"Russian": "Земля в банке"
-    },
-    "GAMEPLAY_DirtCanDescription" : {
-                            "English" : "A recycled can, full of soil. With some fertilizer it could be used as a planter.",
+	},
+	"GAMEPLAY_DirtCanDescription" : {
+							"English" : "A recycled can, full of soil. With some fertilizer it could be used as a planter.",
+							"French (France)" : "Une conserve recyclée, pleine de terre. Avec de l'engrais, pourrais être utilisé pour vos plantations.",
 							"Spanish (Spain)" : "Una lata reciclada, llena de tierra. Con algo de fertilizante se podría convertir en una maceta.",
 							"German" : "Eine recycelte Dose voll Erde. Mit etwas Dünger könnte diese als Pflanzgefäß verwendet werden.",
 							"Turkish": "İçi toprak dolu, geri dönüştürülmüş bir kutu. Biraz gübre ile saksı olarak kullanılabilir.",
 							"Russian": "Банка полная почвы. С удобрением это можно использовать для посадки."
-    },
+	},
 	"GAMEPLAY_DirtPot" : {
-                            "English" : "Potted Dirt",
+							"English" : "Potted Dirt",
+							"French (France)" : "Marmite de Terre",
 							"Spanish (Spain)" : "Tierra en cazuela",
 							"German" : "Kochtopf voll Erde",
 							"Turkish": "Toprak Dolu Tencere",
 							"Russian": "Земля в кастрюле"
-    },
-    "GAMEPLAY_DirtPotDescription" : {
-                            "English" : "A cooking pot, full of soil. With some fertilizer it could be used as a planter.",
+	},
+	"GAMEPLAY_DirtPotDescription" : {
+							"English" : "A cooking pot, full of soil. With some fertilizer it could be used as a planter.",
+							"French (France)" : "Un faitout, plein de terre. Avec de l'engrais, pourrais être utilisé pour vos plantations.",
 							"Spanish (Spain)" : "Una cazuela, llena de tierra. Con algo de fertilizante se podría convertir en una maceta.",
 							"German" : "Ein Kochtopf voll Erde. Mit etwas Dünger könnte dieser als Pflanzgefäß verwendet werden.",
 							"Turkish": "İçi toprak dolu bir tencere. Biraz gübre ile saksı olarak kullanılabilir.",
 							"Russian": "Кастрлюлька полная почвы. С удобрением это можно использовать для посадки."
-    },
+	},
 	"GAMEPLAY_DirtBox" : {
-                            "English" : "Boxed Dirt",
+							"English" : "Boxed Dirt",
+							"French (France)" : "Boite de Terre",
 							"Spanish (Spain)" : "Tierra en caja",
 							"German" : "Box voll Erde",
 							"Turkish": "Toprak Dolu Kutu",
 							"Russian": "Земля в ящике"
-    },
-    "GAMEPLAY_DirtBoxDescription" : {
-                           "English" : "A metal box, full of soil. With some fertilizer it could be used as a planter.",
+	},
+	"GAMEPLAY_DirtBoxDescription" : {
+						   "English" : "A metal box, full of soil. With some fertilizer it could be used as a planter.",
+							"French (France)" : "Une boite métallique, pleine de terre. Avec de l'engrais, pourrais être utilisé pour vos plantations.",
 							"Spanish (Spain)" : "Una caja de metal, llena de tierra. Con algo de fertilizante se podría convertir en una maceta.",
 							"German" : "Eine Metallkiste voll Erde. Mit etwas Dünger könnte diese als Pflanzgefäß verwendet werden.",
 							"Turkish": "İçi toprak dolu metal bir kutu. Biraz gübre ile saksı olarak kullanılabilir.",
 							"Russian": "Металлический ящик полный почвы. С удобрением это можно использовать для посадки."
-    },	
+	},	
 	"GAMEPLAY_DirtHumid" : {
-                            "English" : "Boxed Dirt (Kit)",
+							"English" : "Boxed Dirt (Kit)",
+							"French (France)" : "Boite de Terre (Kit)",
 							"Spanish (Spain)" : "Tierra en caja (Kit)",
 							"German" : "Box voll Erde (Kit)",
 							"Turkish": "Toprak Dolu Kutu (Kiti)",
 							"Russian": "Увлажнитель с зёмлей"
-    },
-    "GAMEPLAY_DirtHumidDescription" : {
-                            "English" : "A humid kit, full of soil. With some fertilizer it could be used as a planter.",
+	},
+	"GAMEPLAY_DirtHumidDescription" : {
+							"English" : "A humid kit, full of soil. With some fertilizer it could be used as a planter.",
+							"French (France)" : "Un kit d'humidification, plein de terre. Avec de l'engrais, pourrais être utilisé pour vos plantations.",
 							"Spanish (Spain)" : "Un kit de humidificación, lleno de tierra. Con algo de fertilizante se podría convertir en una maceta.",
 							"German" : "Ein Feuchtset, voll mit Erde und Dünger. Könnte als Pflanzgefäß verwendet werden.",
 							"Turkish": "Toprakla dolu nemli bir kit. Biraz gübre ile saksı olarak kullanılabilir.",
 							"Russian": "Увлажнитель полный почвы. С удобрением это можно использовать для посадки."
-    },
+	},
 	"GAMEPLAY_DeadPlanterSmall" : {
-                            "English" : "Withered Planter",
+							"English" : "Withered Planter",
+							"French (France)" : "Plante Fanée",
 							"Spanish (Spain)" : "Maceta marchita",
 							"German" : "Verwelktes Pflanzgefäß",
 							"Turkish": "Soldurulmuş Saksı",
 							"Russian": "Высохшая посадка"
-    },
-    "GAMEPLAY_DeadPlanterSmallDescription" : {
-                            "English" : "This can used to be a planter. Whatever was planted here died a while ago.",
+	},
+	"GAMEPLAY_DeadPlanterSmallDescription" : {
+							"English" : "This can used to be a planter. Whatever was planted here died a while ago.",
+							"French (France)" : "Peux être utilisé pour vos plantations. Quoique ce soit qui ai été planté ici, est mort il y a un moment.",
 							"Spanish (Spain)" : "Esta lata solía ser una maceta. Sea lo que sea que estuviese plantado aquí murió hace un tiempo.",
 							"German" : "Diese Dose war früher ein Pflanzgefäß. Was auch immer hier gepflanzt wurde, ist vor einiger Zeit gestorben.",
 							"Turkish": "Bu eskiden bir saksı olabilir. Buraya her ne ekildiyse bir süre önce ölmüş.",
 							"Russian": "Это банка для посадки. Однако, её содержимое погибло."
-    },
+	},
 	"GAMEPLAY_DeadPlanterBig" : {
-                            "English" : "Withered Planter",
+							"English" : "Withered Planter",
+							"French (France)" : "Plante Fanée",
 							"Spanish (Spain)" : "Maceta marchita",
 							"German" : "Verwelktes Pflanzgefäß",
 							"Turkish": "Soldurulmuş Saksı",
 							"Russian": "Высохшая посадка"
-    },
-    "GAMEPLAY_DeadPlanterBigDescription" : {
-                            "English" : "This pot used to be a planter. Whatever was planted here died a while ago.",
+	},
+	"GAMEPLAY_DeadPlanterBigDescription" : {
+							"English" : "This pot used to be a planter. Whatever was planted here died a while ago.",
+							"French (France)" : "Ce faitout peux être utilisé pour vos plantations. Quoique ce soit qui ai été planté ici, est mort il y a un moment.",
 							"Spanish (Spain)" : "Esta cazuela solía ser una maceta. Sea lo que sea que estuviese plantado aquí murió hace un tiempo.",
 							"German" : "Dieser Kochtopf war einmal ein Pflanzgefäß. Was auch immer hier gepflanzt wurde, ist vor einiger Zeit gestorben.",
 							"Turkish": "Bu saksı eskiden saksı olarak kullanılıyordu. Buraya her ne ekildiyse bir süre önce öldü.",
 							"Russian": "Это кастрюлька для посадки. Однако, её содержимое погибло."
-    },
+	},
 	"GAMEPLAY_DeadPlanterBox" : {
-                            "English" : "Withered Planter",
+							"English" : "Withered Planter",
+							"French (France)" : "Plante Fanée",
 							"Spanish (Spain)" : "Maceta marchita",
 							"German" : "Verwelktes Pflanzgefäß",
 							"Turkish": "Soldurulmuş Saksı",
 							"Russian": "Высохшая посадка"
-    },
-    "GAMEPLAY_DeadPlanterBoxDescription" : {
-                            "English" : "This box used to be a planter. Whatever was planted here died a while ago.",
+	},
+	"GAMEPLAY_DeadPlanterBoxDescription" : {
+							"English" : "This box used to be a planter. Whatever was planted here died a while ago.",
+							"French (France)" : "Cette boite peux être utilisée pour vos plantations. Quoique ce soit qui ai été planté ici, est mort il y a un moment.",
 							"Spanish (Spain)" : "Esta caja solía ser una maceta. Sea lo que sea que estuviese plantado aquí murió hace un tiempo.",
 							"German" : "Diese Metallkiste war einmal ein Pflanzgefäß. Was auch immer hier gepflanzt wurde, ist vor einiger Zeit gestorben.",
 							"Turkish": "Bu kutu eskiden saksı olarak kullanılıyordu. Buraya her ne ekildiyse bir süre önce öldü.",
 							"Russian": "Это ящик для посадки. Однако, его содержимое погибло."
-    },	
+	},	
 	"GAMEPLAY_DeadPlanterHumid" : {
-                            "English" : "Withered Planter",
+							"English" : "Withered Planter",
+							"French (France)" : "Plante Fanée",
 							"Spanish (Spain)" : "Maceta marchita",
 							"German" : "Verwelktes Pflanzgefäß",
 							"Turkish": "Soldurulmuş Saksı",
 							"Russian": "Высохшая посадка"
-    },
-    "GAMEPLAY_DeadPlanterHumidDescription" : {
-                            "English" : "This humid kit used to be a planter. Whatever was planted here died a while ago.",
+	},
+	"GAMEPLAY_DeadPlanterHumidDescription" : {
+							"English" : "This humid kit used to be a planter. Whatever was planted here died a while ago.",
+							"French (France)" : "Ce kit humide peux être utilisé pour vos plantations. Quoique ce soit qui ai été planté ici, est mort il y a un moment.",
 							"Spanish (Spain)" : "Este kit de humidificación solía ser una maceta. Sea lo que sea que estuviese plantado aquí murió hace un tiempo.",
 							"German" : "Dieses Feuchtset war einmal ein Pflanzgefäß. Was auch immer hier gepflanzt wurde, ist vor einiger Zeit gestorben.",
 							"Turkish": "Bu nemli kit eskiden saksı olarak kullanılıyordu. Buraya her ne ekildiyse bir süre önce öldü.",
 							"Russian": "Это увлажнитель для посадки. Однако, его содержимое погибло."
-    },
+	},
 	"GAMEPLAY_DeadMatter" : {
-                            "English" : "Organic Waste",
+							"English" : "Organic Waste",
+							"French (France)" : "Déchets Organiques",
 							"Spanish (Spain)" : "Desechos orgánicos",
 							"German" : "Organischer Abfall",
 							"Turkish": "Organik Atık",
 							"Russian": "Органические отходы"
-    },
-    "GAMEPLAY_DeadMatterDescription" : {
-                            "English" : "This used to be a plant, most likely. Can be used to make fertilizer.",
+	},
+	"GAMEPLAY_DeadMatterDescription" : {
+							"English" : "This used to be a plant, most likely. Can be used to make fertilizer.",
+							"French (France)" : "C'était sans doute une plante avant. Peux être utiliser pour fabriquer de l'engrais.",
 							"Spanish (Spain)" : "Esto solía ser una planta, probablemente. Puede usarse para hacer fertilizante.",
 							"German" : "Das war wahrscheinlich früher einmal eine Pflanze. Kann zur Herstellung von Dünger verwendet werden.",
 							"Turkish": "Bu büyük ihtimalle eskiden bir bitkiydi. Gübre yapımında kullanılabilir.",
 							"Russian": "Должно быть это было растение. Можно использовать как удобрение."
-    },
+	},
 	"GAMEPLAY_PlanterSmall" : {
-                            "English" : "Can Planter",
+							"English" : "Can Planter",
+							"French (France)" : "Jardinière (Canette)",
 							"Spanish (Spain)" : "Maceta en lata",
 							"German" : "Dosen Pflanzgefäß",
 							"Turkish": "Teneke Kutu",
 							"Russian": "Клумба в банке"
-    },
-    "GAMEPLAY_PlanterSmallDescription" : {
-                            "English" : "A recycled can, full of dirt and nutrients. Ready to be used as a planter.",
+	},
+	"GAMEPLAY_PlanterSmallDescription" : {
+							"English" : "A recycled can, full of dirt and nutrients. Ready to be used as a planter.",
+							"French (France)" : "Une boite de conserve recyclée, pleine de terre et de nutriments. Prête à planter",
 							"Spanish (Spain)" : "Una lata reciclada, llena de tierra y nutrientes. Lista para ser usada como maceta.",
 							"German" : "Eine recycelte Dose voll Erde und Pflanzennährstoffen. Bereit, als Pflanzgefäß verwendet zu werden.",
 							"Turkish": "Kir ve besinlerle dolu geri dönüştürülmüş bir kutu. Saksı olarak kullanılmaya hazır.",
 							"Russian": "Банка с почвой и удобрением. Готова к посадке."
-    },
+	},
 	"GAMEPLAY_PlanterBig" : {
-                            "English" : "Pot Planter",
+							"English" : "Pot Planter",
+							"French (France)" : "Jardinière (Marmite)",
 							"Spanish (Spain)" : "Maceta en cazuela",
 							"German" : "Kochtopf Pflanzgefäß",
 							"Turkish": "Tencere Saksı",
 							"Russian": "Клумба в кастюле"
-    },
-    "GAMEPLAY_PlanterBigDescription" : {
-                            "English" : "A cooking pot, full of dirt and nutrients. Ready to be used as a planter.",
+	},
+	"GAMEPLAY_PlanterBigDescription" : {
+							"English" : "A cooking pot, full of dirt and nutrients. Ready to be used as a planter.",
+							"French (France)" : "Un faitout, plein de terre et de nutriments. Prêt à planter",
 							"Spanish (Spain)" : "Una cazuela, llena de tierra y nutrientes. Lista para ser usada como maceta.",
 							"German" : "Ein Kochtopf voll Erde und Pflanzennährstoffen. Bereit, als Pflanzgefäß verwendet zu werden.",
 							"Turkish": "Kir ve besinlerle dolu bir tencere. Saksı olarak kullanılmaya hazır.",
 							"Russian": "Кастрюлька с почвой и удобрением. Готова к посадке."
-    },
+	},
 	"GAMEPLAY_PlanterHumid" : {
-                            "English" : "Humid Planter",
+							"English" : "Humid Planter",
+							"French (France)" : "Jardinière humide",
 							"Spanish (Spain)" : "Maceta humidificada",
 							"German" : "Befeuchtetes Pflanzgefäß",
 							"Turkish": "Nemli Saksı",
 							"Russian": "Клумба в увлажнителе"
-    },
-    "GAMEPLAY_PlanterHumidDescription" : {
-                            "English" : "A metal box with some electronics attached, full of dirt and nutrients. Ready to be used as a planter for plants with special needs.",
+	},
+	"GAMEPLAY_PlanterHumidDescription" : {
+							"English" : "A metal box with some electronics attached, full of dirt and nutrients. Ready to be used as a planter for plants with special needs.",
+							"French (France)" : "Une boite en métal avec de l'électronique, pleine de terre et de fertilisants. Pour les plantes ayant des besoins particuliers.",
 							"Spanish (Spain)" : "Una caja metálica con piezas electrónicas pegadas, llena de tierra y nutrientes. Lista para ser usada como maceta para plantas con necesidades especiales.",
 							"German" : "Eine Metallbox mit etwas Elektronik, voll mit Erde und Pflanzennährstoffen. Kann als Pflanzgefäß für Pflanzen mit besonderen Bedürfnissen verwendet werden.",
 							"Turkish": "Bazı elektronik aksamların takılı olduğu, kir ve besinlerle dolu metal bir kutu. Özel ihtiyaçları olan bitkiler için ekici olarak kullanılmaya hazır.",
 							"Russian": "Металлический ящик с электроникой, почвой и удобрением. Готова к посадке особо требовательных растений."
-    },
+	},
 	"GAMEPLAY_PlanterBox" : {
-                            "English" : "Box Planter",
+							"English" : "Box Planter",
+							"French (France)" : "Jardinière (Boite)",
 							"Spanish (Spain)" : "Maceta en caja",
 							"German" : "Box Pflanzgefäß",
 							"Turkish": "Kutu Saksı",
 							"Russian": "Клумба в ящике"
-    },
-    "GAMEPLAY_PlanterBoxDescription" : {
-                            "English" : "A metal box, full of dirt and nutrients. Ready to be used as a planter.",
+	},
+	"GAMEPLAY_PlanterBoxDescription" : {
+							"English" : "A metal box, full of dirt and nutrients. Ready to be used as a planter.",
+							"French (France)" : "Une boite en métal, pleine de terre et de nutriments. Prêt à planter.",
 							"Spanish (Spain)" : "Una caja metálica, llena de tierra y nutrientes. Lista para ser usada como maceta.",
 							"German" : "Eine Metallkiste voll mit Erde und Pflanzennährstoffen. Bereit, als Pflanzgefäß verwendet zu werden.",
 							"Turkish": "Toprak ve besinlerle dolu metal bir kutu. Saksı olarak kullanılmaya hazır.",
 							"Russian": "Металлический ящик с почвой и удобрением. Готова к посадке растений."
-    },
+	},
 	"GAMEPLAY_PlanterRosehipSmall2" :{
 							"English" : "Rose Hip Planter",
+							"French (France)" : "Églantier en jardinière",
 							"Spanish (Spain)" : "Maceta de escaramujo",
 							"German" : "Hagebutten Pflanzgefäß",
 							"Turkish": "Kuşburnu Saksısı",
@@ -388,6 +443,7 @@
 	},
 	"GAMEPLAY_PlanterRosehipSmall2Description" : {
 							"English" : "A rose hip sapling, planted in a recycled can.",
+							"French (France)" : "Pousse d'églantier dans une boite de conserve recyclée qui lui sert de jardinière.",
 							"Spanish (Spain)" : "Un retoño de escaramujo, plantado en una lata.",
 							"German" : "Ein Hagebuttensetzling, gepflanzt in einer recycelten Dose.",
 							"Turkish": "Geri dönüştürülmüş kutuya dikilmiş bir kuşburnu fidanı",
@@ -395,6 +451,7 @@
 	},
 	"GAMEPLAY_PlanterRosehipSmall1" :{
 							"English" : "Rose Hip Planter",
+							"French (France)" : "Églantier en jardinière",
 							"Spanish (Spain)" : "Maceta de escaramujo",
 							"German" : "Hagebutten Pflanzgefäß",
 							"Turkish": "Kuşburnu Saksısı",
@@ -402,6 +459,7 @@
 	},
 	"GAMEPLAY_PlanterRosehipSmall1Description" : {
 							"English" : "A rose hip sapling, planted in a recycled can. Fully grown.",
+							"French (France)" : "Églantier dans une boite de conserve recyclée qui lui sert de jardinière.",
 							"Spanish (Spain)" : "Un retoño de escaramujo, plantado en una lata. Completamente crecido.",
 							"German" : "Ein Hagebuttensetzling, gepflanzt in einer recycelten Dose. Komplett Ausgewachsen.",
 							"Turkish": "Geri dönüştürülmüş bir kutuya dikilmiş bir kuşburnu fidanı. Tam büyümüş",
@@ -409,6 +467,7 @@
 	},
 	"GAMEPLAY_PlanterRosehipBig2" :{
 							"English" : "Rose Hip Planter",
+							"French (France)" : "Églantier en jardinière",
 							"Spanish (Spain)" : "Maceta de escaramujo",
 							"German" : "Hagebutten Pflanzgefäß",
 							"Turkish": "Kuşburnu Saksısı",
@@ -416,6 +475,7 @@
 	},
 	"GAMEPLAY_PlanterRosehipBig2Description" : {
 							"English" : "A rose hip sapling, planted in a cooking pot.",
+							"French (France)" : "Pousse d'églantier dans un faitout qui lui sert de jardinière.",
 							"Spanish (Spain)" : "Un retoño de escaramujo, plantado en una cazuela.",
 							"German" : "Ein Hagebuttensetzling, gepflanzt in einem Kochtopf.",
 							"Turkish": "Bir tencereye dikilmiş kuşburnu fidanı.",
@@ -423,6 +483,7 @@
 	},
 	"GAMEPLAY_PlanterRosehipBig1" :{
 							"English" : "Rose Hip Planter",
+							"French (France)" : "Églantier en jardinière",
 							"Spanish (Spain)" : "Maceta de escaramujo",
 							"German" : "Hagebutten Pflanzgefäß",
 							"Turkish": "Kuşburnu Saksısı",
@@ -430,6 +491,7 @@
 	},
 	"GAMEPLAY_PlanterRosehipBig1Description" : {
 							"English" : "A rose hip sapling, planted in a cooking pot. Fully grown.",
+							"French (France)" : "Églantier dans un faitout qui lui sert de jardinière.",
 							"Spanish (Spain)" : "Un retoño de escaramujo, plantado en una cazuela. Completamente crecido.",
 							"German" : "Ein Hagebuttensetzling, gepflanzt in einem Kochtopf. Komplett Ausgewachsen.",
 							"Turkish": "Bir tencereye dikilmiş kuşburnu fidanı. Tam büyümüş.",
@@ -437,6 +499,7 @@
 	},
 	"GAMEPLAY_PlanterReishiBig2" :{
 							"English" : "Reishi Mushroom Planter",
+							"French (France)" : "Reishi en jardinière",
 							"Spanish (Spain)" : "Maceta de seta Reishi",
 							"German" : "Lackporling Pflanzgefäß",
 							"Turkish": "Reishi Mantarı Saksısı",
@@ -444,6 +507,7 @@
 	},
 	"GAMEPLAY_PlanterReishiBig2Description" : {
 							"English" : "Reishi spores, planted in a cooking pot.",
+							"French (France)" : "Des spores de reishi dans un faitout qui lui sert de jardinière.",
 							"Spanish (Spain)" : "Esporas de Reishi, plantadas en una cazuela.",
 							"German" : "Lackporling Sporen, in einen Kochtopf gepflanzt.",
 							"Turkish": "Bir tencereye ekilen Reishi sporları.",
@@ -451,6 +515,7 @@
 	},
 	"GAMEPLAY_PlanterReishiBig1" :{
 							"English" : "Reishi Mushroom Planter",
+							"French (France)" : "Reishi en jardinière",
 							"Spanish (Spain)" : "Maceta de seta Reishi",
 							"German" : "Lackporling Pflanzgefäß",
 							"Turkish": "Reishi Mantarı Saksısı",
@@ -458,6 +523,7 @@
 	},
 	"GAMEPLAY_PlanterReishiBig1Description" : {
 							"English" : "Reishi spores, planted in a cooking pot. Fully grown.",
+							"French (France)" : "Reishi dans un faitout qui lui sert de jardinière.",
 							"Spanish (Spain)" : "Esporas de Reishi, plantadas en una cazuela. Completamente crecidas.",
 							"German" : "Lackporling Sporen, in einen Kochtopf gepflanzt. Komplett Ausgewachsen.",
 							"Turkish": "Bir tencereye ekilen Reishi sporları. Tam büyümüş.",
@@ -465,6 +531,7 @@
 	},
 	"GAMEPLAY_PlanterOldmanBig2" :{
 							"English" : "Lichen Planter",
+							"French (France)" : "Barbe de Jupiter en jardinière",
 							"Spanish (Spain)" : "Maceta de liquen",
 							"German" : "Bartflechten Pflanzgefäß",
 							"Turkish": "Orman Asması Likeni Saksısı",
@@ -472,6 +539,7 @@
 	},
 	"GAMEPLAY_PlanterOldmanBig2Description" : {
 							"English" : "Lichen flakes, planted in a cooking pot.",
+							"French (France)" : "Flocons de Barbe de Jupiter dans un faitout qui lui sert de jardinière.",
 							"Spanish (Spain)" : "Copos de liquen, plantados en una cazuela.",
 							"German" : "Bartflechten Floken, in einen Kochtopf gepflanzt.",
 							"Turkish": "Tencereye ekilmiş liken sodyumları.",
@@ -479,6 +547,7 @@
 	},
 	"GAMEPLAY_PlanterOldmanBig1" :{
 							"English" : "Lichen Planter",
+							"French (France)" : "Barbe de Jupiter en jardinière",
 							"Spanish (Spain)" : "Maceta de liquen",
 							"German" : "Bartflechten Pflanzgefäß",
 							"Turkish": "Orman Asması Likeni Saksısı",
@@ -486,6 +555,7 @@
 	},
 	"GAMEPLAY_PlanterOldmanBig1Description" : {
 							"English" : "Lichen flakes, planted in a cooking pot. Fully grown.",
+							"French (France)" : "Barbe de Jupiter dans un faitout qui lui sert de jardinière.",
 							"Spanish (Spain)" : "Copos de liquen, plantados en una cazuela. Completamente crecidos.",
 							"German" : "Bartflechten Floken, in einen Kochtopf gepflanzt. Komplett Ausgewachsen.",
 							"Turkish": "Tencereye ekilmiş liken sodyumları. Tam büyümüş.",
@@ -493,6 +563,7 @@
 	},
 	"GAMEPLAY_PlanterCattailSmall2" :{
 							"English" : "Cat Tail Planter",
+							"French (France)" : "Massette en jardinière",
 							"Spanish (Spain)" : "Maceta de espadaña",
 							"German" : "Rohrkolben Pflanzgefäß",
 							"Turkish": "Hasır Otu Saksısı",
@@ -500,6 +571,7 @@
 	},
 	"GAMEPLAY_PlanterCattailSmall2Description" : {
 							"English" : "A cat tail head, planted in a recycled can.",
+							"French (France)" : "Pousse de massette plantée dans une conserve.",
 							"Spanish (Spain)" : "Un cogollo de espadaña, plantado en una lata.",
 							"German" : "Ein Rohrkolbenkopf, gepflanzt in einer recycelten Dose.",
 							"Turkish": "Geri dönüştürülmüş bir kutuya dikilmiş hasır otu kafası.",
@@ -507,6 +579,7 @@
 	},
 	"GAMEPLAY_PlanterCattailSmall1" :{
 							"English" : "Cat Tail Planter",
+							"French (France)" : "Massette en jardinière",
 							"Spanish (Spain)" : "Maceta de espadaña",
 							"German" : "Rohrkolben Pflanzgefäß",
 							"Turkish": "Hasır Otu Saksısı",
@@ -514,6 +587,7 @@
 	},
 	"GAMEPLAY_PlanterCattailSmall1Description" : {
 							"English" : "A cat tail head, planted in a recycled can. Fully grown.",
+							"French (France)" : "Massette plantée dans une conserve.",
 							"Spanish (Spain)" : "Un cogollo de espadaña, plantad0 en una lata. Completamente crecido.",
 							"German" : "Ein Rohrkolbenkopf, gepflanzt in einer recycelten Dose. Komplett Ausgewachsen.",
 							"Turkish": "Geri dönüştürülmüş bir kutuya dikilmiş hasır otu kafası. Tam büyümüş.",
@@ -521,6 +595,7 @@
 	},
 	"GAMEPLAY_PlanterCattailBig2" :{
 							"English" : "Cat Tail Planter",
+							"French (France)" : "Massette en jardinière",
 							"Spanish (Spain)" : "Maceta de espadaña",
 							"German" : "Rohrkolben Pflanzgefäß",
 							"Turkish": "Hasır Otu Saksısı",
@@ -528,6 +603,7 @@
 	},
 	"GAMEPLAY_PlanterCattailBig2Description" : {
 							"English" : "A cat tail head, planted in a cooking pot.",
+							"French (France)" : "Pousse de massette plantée dans un faitout.",
 							"Spanish (Spain)" : "Un cogollo de espadaña, plantado en una cazuela.",
 							"German" : "Ein Rohrkolbenkopf, gepflanzt in einen Kochtopf.",
 							"Turkish": "Bir tencereye dikilmiş bir hasır otu kafası",
@@ -535,6 +611,7 @@
 	},
 	"GAMEPLAY_PlanterCattailBig1" :{
 							"English" : "Cat Tail Planter",
+							"French (France)" : "Massette en jardinière",
 							"Spanish (Spain)" : "Maceta de espadaña",
 							"German" : "Rohrkolben Pflanzgefäß",
 							"Turkish": "Hasır Otu Saksısı",
@@ -542,6 +619,7 @@
 	},
 	"GAMEPLAY_PlanterCattailBig1Description" : {
 							"English" : "A cat tail head, planted in a cooking pot. Fully grown.",
+							"French (France)" : "Massette plantée dans une faitout.",
 							"Spanish (Spain)" : "Un cogollo de espadaña, plantado en una cazuela. Completamente crecido.",
 							"German" : "Ein Rohrkolbenkopf, gepflanzt in einen Kochtopf. Komplett Ausgewachsen.",
 							"Turkish": "Bir tencereye dikilmiş bir hasır otu kafası. Tam büyümüş.",
@@ -549,6 +627,7 @@
 	},
 	"GAMEPLAY_PlanterBurdockSmall2" :{
 							"English" : "Burdock Planter",
+							"French (France)" : "Bardane en jardinière",
 							"Spanish (Spain)" : "Maceta de bardana",
 							"German" : "Kletten Pflanzgefäß",
 							"Turkish" : "Dulavratotu Saksısı",
@@ -556,6 +635,7 @@
 	},
 	"GAMEPLAY_PlanterBurdockSmall2Description" : {
 							"English" : "A burdock sapling, planted in a recycled can.",
+							"French (France)" : "Pousse de bardane plantée dans une conserve.",
 							"Spanish (Spain)" : "Un retoño de bardana, plantado en una lata.",
 							"German" : "Ein Klettensetzling, gepflanzt in einer recycelten Dose.",
 							"Turkish" : "Teneke kutuya dikilmiş bir dulavratotu fidanı.",
@@ -563,6 +643,7 @@
 	},
 	"GAMEPLAY_PlanterBurdockSmall1" :{
 							"English" : "Burdock Planter",
+							"French (France)" : "Bardane en jardinière",
 							"Spanish (Spain)" : "Maceta de bardana",
 							"German" : "Kletten Pflanzgefäß",
 							"Turkish": "Dulavratotu Saksısı",
@@ -570,6 +651,7 @@
 	},
 	"GAMEPLAY_PlanterBurdockSmall1Description" : {
 							"English" : "A burdock sapling, planted in a recycled can. Fully grown.",
+							"French (France)" : "Bardane plantée dans une conserve.",
 							"Spanish (Spain)" : "Un retoño de bardana, plantado en una lata. Completamente crecido.",
 							"German" : "Ein Klettensetzling, gepflanzt in einer recycelten Dose. Komplett Ausgewachsen.",
 							"Turkish": "Geri dönüştürülmüş bir teneke kutuya dikilmiş bir dulavratotu fidanı. Tamamen büyümüş.",
@@ -577,6 +659,7 @@
 	},
 	"GAMEPLAY_PlanterBurdockBig2" :{
 							"English" : "Burdock Planter",
+							"French (France)" : "Bardane en jardinière",
 							"Spanish (Spain)" : "Maceta de bardana",
 							"German" : "Kletten Pflanzgefäß",
 							"Turkish": "Dulavratotu Saksısı",
@@ -584,6 +667,7 @@
 	},
 	"GAMEPLAY_PlanterBurdockBig2Description" : {
 							"English" : "A burdock sapling, planted in a cooking pot.",
+							"French (France)" : "Pousse de bardane plantée dans un faitout.",
 							"Spanish (Spain)" : "Un retoño de bardana, plantado en una cazuela.",
 							"German" : "Ein Klettensetzling, gepflanzt in einen Kochtopf.",
 							"Turkish": "Tencereye dikilmiş bir dulavratotu fidanı.",
@@ -591,6 +675,7 @@
 	},
 	"GAMEPLAY_PlanterBurdockBig1" :{
 							"English" : "Burdock Planter",
+							"French (France)" : "Bardane en jardinière",
 							"Spanish (Spain)" : "Maceta de bardana",
 							"German" : "Kletten Pflanzgefäß",
 							"Turkish": "Dulavratotu Saksısı",
@@ -598,6 +683,7 @@
 	},
 	"GAMEPLAY_PlanterBurdockBig1Description" : {
 							"English" : "A burdock sapling, planted in a cooking pot. Fully grown.",
+							"French (France)" : "Bardane plantée dans un faitout.",
 							"Spanish (Spain)" : "Un retoño de bardana, plantado en una cazuela. Completamente crecido.",
 							"German" : "Ein Klettensetzling, gepflanzt in einen Kochtopf. Komplett Ausgewachsen.",
 							"Turkish": "Tencereye dikilmiş bir dulavratotu fidanı. Tamamen büyümüş.",
@@ -605,6 +691,7 @@
 	},
 	"GAMEPLAY_PlanterBlueberries2" :{
 							"English" : "Blueberry Planter",
+							"French (France)" : "Myrtille en jardinière",
 							"Spanish (Spain)" : "Maceta de arándanos",
 							"German" : "Blaubeeren Pflanzgefäß",
 							"Turkish": "Yabanmersini Saksısı",
@@ -612,6 +699,7 @@
 	},
 	"GAMEPLAY_PlanterBlueberries2Description" : {
 							"English" : "Blueberry seeds, planted in a humid kit. The electronics are only powered at auroras, but the mesh over it should maintain temperature and humidity.",
+							"French (France)" : "Pousse de Myrtille plantée dans un kit humide.Les composants électroniques ne fonctionnent que pendant l'aurore, mais le filet devrais retenir la température et l'humidité.",
 							"Spanish (Spain)" : "Semillas de arándano, plantadas en un kit de humidificación. La electrónica solo funciona durante las auroras, pero la malla debería mantener la temperatura y humedad.",
 							"German" : "Blaubeerensamen, gepflanzt in einem feuchten Pflanzgefäß. Die Elektronik wird nur bei auroras mit Strom versorgt, aber das Netz darüber sollte Temperatur und Luftfeuchtigkeit aufrechterhalten.",
 							"Turkish": "Nemli bir kit içinde ekilen yaban mersini tohumları. Elektronik aksama yalnızca auroralarda güç verilir, ancak üzerindeki ağ sıcaklığı ve nemi korumalıdır.",
@@ -619,6 +707,7 @@
 	},
 	"GAMEPLAY_PlanterBlueberries1" :{
 							"English" : "Blueberry Planter",
+							"French (France)" : "Myrtille en jardinière",
 							"Spanish (Spain)" : "Maceta de arándanos",
 							"German" : "Blaubeeren Pflanzgefäß",
 							"Turkish": "Yabanmersini Saksısı",
@@ -626,6 +715,7 @@
 	},
 	"GAMEPLAY_PlanterBlueberries1Description" : {
 							"English" : "Blueberry seeds, planted in a humid kit. Fully grown.",
+							"French (France)" : "Myrtille plantée dans un kit humide.",
 							"Spanish (Spain)" : "Semillas de arándano, plantadas en un kit de humidificación. Completamente crecidas.",
 							"German" : "Blaubeerensamen, gepflanzt in einem feuchten Pflanzgefäß. Komplett Ausgewachsen.",
 							"Turkish": "Nemli bir kit içinde ekilen yaban mersini tohumları. Tam büyümüş.",
@@ -633,6 +723,7 @@
 	},
 	"GAMEPLAY_PlanterSoapberries2" :{
 							"English" : "Soapberry Planter",
+							"French (France)" : "Airelle rouge en jardinière",
 							"Spanish (Spain)" : "Maceta de jaboncillos",
 							"German" : "Seifenbeeren Pflanzgefäß",
 							"Turkish": "Böğürtlen Saksısı",
@@ -640,6 +731,7 @@
 	},
 	"GAMEPLAY_PlanterSoapberries2Description" : {
 							"English" : "Soapberry seeds, planted in a humid kit. The electronics are only powered at auroras, but the mesh over it should maintain temperature and humidity.",
+							"French (France)" : "Pousse d'Airelle rouge plantée dans un kit humide.Les composants électroniques ne fonctionnent que pendant l'aurore, mais le filet devrais retenir la température et l'humidité.",
 							"Spanish (Spain)" : "Semillas de jaboncillo, plantadas en un kit de humidificación. La electrónica solo funciona durante las auroras, pero la malla debería mantener la temperatura y humedad.",
 							"German" : "Seifenbeerensamen, gepflanzt in einem feuchten Pflanzgefäß. Die Elektronik wird nur bei auroras mit Strom versorgt, aber das Netz darüber sollte Temperatur und Luftfeuchtigkeit aufrechterhalten.",
 							"Turkish": "Böğürtlen tohumları, nemli bir sete ekildi. Elektronik aksama yalnızca auroralarda güç verilir, ancak üzerindeki ağ sıcaklığı ve nemi korumalıdır.",
@@ -647,6 +739,7 @@
 	},
 	"GAMEPLAY_PlanterSoapberries1" :{
 							"English" : "Soapberry Planter",
+							"French (France)" : "Airelle rouge en jardinière",
 							"Spanish (Spain)" : "Maceta de arándanos",
 							"German" : "Seifenbeeren Pflanzgefäß",
 							"Turkish": "Böğürtlen Saksısı",
@@ -654,6 +747,7 @@
 	},
 	"GAMEPLAY_PlanterSoapberries1Description" : {
 							"English" : "Soapberry seeds, planted in a humid kit. Fully grown.",
+							"French (France)" : "Airelle rouge plantée dans un kit humide.",
 							"Spanish (Spain)" : "Semillas de jaboncillo, plantadas en un kit de humidificación. Completamente crecidas.",
 							"German" : "Seifenbeerensamen, gepflanzt in einem feuchten Pflanzgefäß. Komplett Ausgewachsen.",
 							"Turkish": "Böğürtlen tohumları, nemli bir sete ekildi. Tam büyümüş.",
@@ -661,6 +755,7 @@
 	},
 	"GAMEPLAY_PlanterHerbs2" :{
 							"English" : "Herb Planter",
+							"French (France)" : "Herbes variés en jardinière",
 							"Spanish (Spain)" : "Maceta de hierbas",
 							"German" : "Kräuter Pflanzgefäß",
 							"Turkish": "Bitki Saksısı",
@@ -668,6 +763,7 @@
 	},
 	"GAMEPLAY_PlanterHerbs2Description" : {
 							"English" : "A mix of herb seeds, planted in a humid kit. The electronics are only powered at auroras, but the mesh over it should maintain temperature and humidity.",
+							"French (France)" : "Des pousses d'herbes, plantées dans un kit humide.Les composants électroniques ne fonctionnent que pendant l'aurore, mais le filet devrais retenir la température et l'humidité.",
 							"Spanish (Spain)" : "Semillas de hierbas variadas, plantadas en un kit de humidificación. La electrónica solo funciona durante las auroras, pero la malla debería mantener la temperatura y humedad.",
 							"German" : "Eine Mischung aus Kräutersamen, gepflanzt in einem feuchten Pflanzgefäß. Die Elektronik wird nur bei auroras mit Strom versorgt, aber das Netz darüber sollte Temperatur und Luftfeuchtigkeit aufrechterhalten.",
 							"Turkish": "Nemli bir kite ekilmiş bitki tohumları karışımı. Elektronik aksama yalnızca auroralarda güç verilir, ancak üzerindeki ağ sıcaklığı ve nemi korumalıdır.",
@@ -675,6 +771,7 @@
 	},
 	"GAMEPLAY_PlanterHerbs1" :{
 							"English" : "Herb Planter",
+							"French (France)" : "Herbes variés en jardinièr",
 							"Spanish (Spain)" : "Maceta de hierbas",
 							"German" : "Kräuter Pflanzgefäß",
 							"Turkish": "Bitki Saksısı",
@@ -682,6 +779,7 @@
 	},
 	"GAMEPLAY_PlanterHerbs1Description" : {
 							"English" : "A mix of herb seeds, planted in a humid kit. Fully grown.",
+							"French (France)" : "Une variété d'herbes, plantées dans un kit humide.",
 							"Spanish (Spain)" : "Semillas de hierbas variadas, plantadas en un kit de humidificación. Completamente crecidas.",
 							"German" : "Eine Mischung aus Kräutersamen, gepflanzt in einem feuchten Pflanzgefäß. Komplett Ausgewachsen.",
 							"Turkish": "Nemli bir kite ekilmiş bitki tohumları karışımı. Tam büyümüş.",
@@ -689,6 +787,7 @@
 	},
 	"GAMEPLAY_PlanterCarrot2" :{
 							"English" : "Carrot Planter",
+							"French (France)" : "Carotte en jardinière",
 							"Spanish (Spain)" : "Maceta de zanahoria",
 							"German" : "Karotten Pflanzgefäß",
 							"Turkish": "Havuç Saksısı",
@@ -696,6 +795,7 @@
 	},
 	"GAMEPLAY_PlanterCarrot2Description" : {
 							"English" : "Carrot seeds, planted in a metal box.",
+							"French (France)" : "Pousse de plant de carotte dans une boite en métal.",
 							"Spanish (Spain)" : "Semillas de zanahoria, plantadas en una caja metálica.",
 							"German" : "Karottensamen, gepflanzt in einer Metallbox.",
 							"Turkish": "Metal bir kutuya ekilmiş havuç tohumları.",
@@ -703,6 +803,7 @@
 	},
 	"GAMEPLAY_PlanterCarrot1" :{
 							"English" : "Carrot Planter",
+							"French (France)" : "Carotte en jardinière",
 							"Spanish (Spain)" : "Maceta de zanahoria",
 							"German" : "Karotten Pflanzgefäß",
 							"Turkish": "Havuç Saksısı",
@@ -710,6 +811,7 @@
 	},
 	"GAMEPLAY_PlanterCarrot1Description" : {
 							"English" : "Carrot seeds, planted in a metal box. Fully grown.",
+							"French (France)" : "Plant de carotte à maturité dans une boite en métal.",
 							"Spanish (Spain)" : "Semillas de zanahoria, plantadas en una caja metálica. Completamente crecidas.",
 							"German" : "Karottensamen, gepflanzt in einer Metallbox. Komplett Ausgewachsen.",
 							"Turkish": "Metal bir kutuya ekilmiş havuç tohumları. Tamamen büyümüş.",
@@ -717,6 +819,7 @@
 	},
 	"GAMEPLAY_PlanterPotato2" :{
 							"English" : "Potato Planter",
+							"French (France)" : "Patate en jardinière",
 							"Spanish (Spain)" : "Maceta de patata",
 							"German" : "Kartoffel Pflanzgefäß",
 							"Turkish": "Patates Saksısı",
@@ -724,6 +827,7 @@
 	},
 	"GAMEPLAY_PlanterPotato2Description" : {
 							"English" : "A potato, planted in a metal box.",
+							"French (France)" : "Pousse de pomme de terre, plantée dans une boite en métal.",
 							"Spanish (Spain)" : "Una patata, plantada en una caja metálica.",
 							"German" : "Eine Kartoffel, gepflanzt in einer Metallkiste.",
 							"Turkish": "Metal bir kutuya ekilmiş bir patates.",
@@ -731,6 +835,7 @@
 	},
 	"GAMEPLAY_PlanterPotato1" :{
 							"English" : "Potato Planter",
+							"French (France)" : "Patate en jardinière",
 							"Spanish (Spain)" : "Maceta de patata",
 							"German" : "Kartoffel Pflanzgefäß",
 							"Turkish": "Patates Saksısı",
@@ -738,6 +843,7 @@
 	},
 	"GAMEPLAY_PlanterPotato1Description" : {
 							"English" : "A potato, planted in a metal box. Fully grown.",
+							"French (France)" : "Patate arrivée à maturité, plantée dans une boite en métal.",
 							"Spanish (Spain)" : "Una patata, plantada en una caja metálica. Completamente crecida.",
 							"German" : "Eine Kartoffel, gepflanzt in einer Metallkiste. Komplett Ausgewachsen.",
 							"Turkish": "Metal bir kutuya ekilmiş bir patates. Tamamen büyümüş.",
@@ -745,6 +851,7 @@
 	},
 	"GAMEPLAY_Blueberries" :{
 							"English" : "Blueberries",
+							"French (France)" : "Myrtilles",
 							"Spanish (Spain)" : "Arándanos",
 							"German" : "Blaubeeren",
 							"Turkish": "Yabanmersinleri",
@@ -752,6 +859,7 @@
 	},
 	"GAMEPLAY_BlueberriesDescription" : {
 							"English" : "A bunch of freshly harvested blueberries, ready to be eaten.",
+							"French (France)" : "Quelques Myrtilles fraichement cueillies, prêtes à déguster.",
 							"Spanish (Spain)" : "Un puñado de arándanos recién recogidos, listos para ser comidos.",
 							"German" : "Ein paar frisch geerntete Blaubeeren, bereit zum Verzehr.",
 							"Turkish": "Bir avuç taze toplanmış yaban mersini yenmeye hazır. Yeni bir bitki için fidan olarak kullanılabilir.",
@@ -759,6 +867,7 @@
 	},
 	"GAMEPLAY_BlueberriesAction" : {
 							"English" : "Eat.",
+							"French (France)" : "Manger.",
 							"Spanish (Spain)" : "comer.",
 							"German" : "Essen.",
 							"Turkish": "Ye",
@@ -766,6 +875,7 @@
 	},
 	"GAMEPLAY_BlueberriesStackSingle": {
 							"English" : "heap.",
+							"French (France)" : "pile.",
 							"Spanish (Spain)" : "puñado.",
 							"German" : "haufen.",
 							"Turkish": "yığın",
@@ -773,6 +883,7 @@
 	},
 	"GAMEPLAY_BlueberriesStackMultiple" : {
 							"English" : "heaps.",
+							"French (France)" : "piles.",
 							"Spanish (Spain)" : "puñados.",
 							"German" : "haufen.",
 							"Turkish": "yığınlar.",
@@ -780,6 +891,7 @@
 	},
 	"GAMEPLAY_PreparedBlueberries" :{
 							"English" : "Prepared Blueberries",
+							"French (France)" : "Écrasé de Myrtilles",
 							"Spanish (Spain)" : "Arándanos preparados",
 							"German" : "Vorbereitete Blaubeeren",
 							"Turkish": "Hazırlanmış Yabanmersinleri",
@@ -787,6 +899,7 @@
 	},
 	"GAMEPLAY_PreparedBlueberriesDescription" : {
 							"English" : "Smashed blueberries that can be use to cook a sweet product.",
+							"French (France)" : "Écrasé de Myrtilles qui peux être utilisée pour cuisiner des douceurs.",
 							"Spanish (Spain)" : "Arándanos aplastados que pueden usarse para cocinar un producto dulce.",
 							"German" : "Zerquetschte Blaubeeren, die zum Kochen eines süßen Produkts verwendet werden können.",
 							"Turkish": "Tatlı bir ürün pişirmek için kullanılabilecek ezilmiş yaban mersini.",
@@ -794,6 +907,7 @@
 	},
 	"GAMEPLAY_JamBlueberry" :{
 							"English" : "Blueberry Jam",
+							"French (France)" : "Confiture de Myrtilles",
 							"Spanish (Spain)" : "Mermelada de arándanos",
 							"German" : "Blaubeermarmelade",
 							"Turkish": "Yabanmersini Reçeli",
@@ -801,6 +915,7 @@
 	},
 	"GAMEPLAY_JamBlueberryDescription" : {
 							"English" : "A jar full of sweet blueberry jam. Good source of energy.",
+							"French (France)" : "Un pot de confiture de myrtilles. Bonne source d'énergie.",
 							"Spanish (Spain)" : "Un frasco lleno de mermelada de arándanos dulce. Una rica fuente de energía.",
 							"German" : "Ein Glas voller süßer Blaubeermarmelade. Ein gute Energiequelle.",
 							"Turkish": "Tatlı yabanmersini reçeli dolu bir kavanoz. İyi bir enerji kaynağı.",
@@ -808,6 +923,7 @@
 	},
 	"GAMEPLAY_Berrysoap" :{
 							"English" : "Soapberries",
+							"French (France)" : "Airelles Rouges",
 							"Spanish (Spain)" : "Jaboncillos",
 							"German" : "Seifenbeeren",
 							"Turkish": "Böğürtlenler",
@@ -815,6 +931,7 @@
 	},
 	"GAMEPLAY_BerrysoapDescription" : {
 							"English" : "A bunch of freshly harvested soapberries. Can be toxic in large amounts, so consume them carefully or treat them to make something else.",
+							"French (France)" : "Quelques airelles rouges fraichement cueillies. Peuvent être toxiques en grande quantité, à consommer avec modération ou préparez les pour faire autre chose.",
 							"Spanish (Spain)" : "Un puñado de jaboncillos recién recogidos. Pueden ser tóxicos en grandes cantidades, así que consúmelos con cuidado o trátalos para hacer otra cosa.",
 							"German" : "Ein paar frisch geerntete Seifenbeeren. Können in großen Mengen giftig sein. Konsumiere sie daher vorsichtig oder behandeln sie, um etwas anderes herzustellen.",
 							"Turkish": "Bir demet taze toplanmış böğürtlen. Büyük miktarlarda toksik olabilir, bu yüzden onları dikkatli bir şekilde tüketin veya başka bir şey yapmak için işleyin. Yeni bir bitki için fidan olarak kullanılabilir.",
@@ -822,6 +939,7 @@
 	},
 	"GAMEPLAY_BerrysoapAction" : {
 							"English" : "Eat.",
+							"French (France)" : "Manger.",
 							"Spanish (Spain)" : "comer.",
 							"German" : "Essen.",
 							"Turkish": "Ye",
@@ -829,6 +947,7 @@
 	},
 	"GAMEPLAY_BerrysoapStackSingle": {
 							"English" : "heap.",
+							"French (France)" : "pile.",
 							"Spanish (Spain)" : "puñado.",
 							"German" : "haufen.",
 							"Turkish": "yığın",
@@ -836,6 +955,7 @@
 	},
 	"GAMEPLAY_BerrysoapStackMultiple" : {
 							"English" : "heaps.",
+							"French (France)" : "piles.",
 							"Spanish (Spain)" : "puñados.",
 							"German" : "haufen.",
 							"Turkish": "yığınlar",
@@ -843,6 +963,7 @@
 	},
 	"GAMEPLAY_PreparedSoapberries" :{
 							"English" : "Prepared Soapberries",
+							"French (France)" : "Écrasé d'Airelles Rouges",
 							"Spanish (Spain)" : "Jaboncillos preparados",
 							"German" : "Vorbereitete Seifenbeeren",
 							"Turkish": "Hazırlanmış Böğürtlenler",
@@ -850,6 +971,7 @@
 	},
 	"GAMEPLAY_PreparedSoapberriesDescription" : {
 							"English" : "Smashed soapberries that can be use to cook a bitter product.",
+							"French (France)" : "Écrasé d'airelles rouges, peux être utilisé pour ajouter de l'amertume à vos préparations culinaires.",
 							"Spanish (Spain)" : "Jaboncillos aplastados que pueden usarse para cocinar un producto amargo.",
 							"German" : "Zerdrückte Seifenbeeren, die zum Kochen eines bitteren Produkts verwendet werden können.",
 							"Turkish": "Acı bir ürün pişirmek için kullanılabilecek ezilmiş böğürtlenler.",
@@ -857,6 +979,7 @@
 	},
 	"GAMEPLAY_JamSoapberry" :{
 							"English" : "Soapberry Jam",
+							"French (France)" : "Confiture d'Airelles Rouges",
 							"Spanish (Spain)" : "Mermelada de jaboncillos",
 							"German" : "Seifenbeermarmelade",
 							"Turkish": "Böğürtlen Reçeli",
@@ -864,6 +987,7 @@
 	},
 	"GAMEPLAY_JamSoapberryDescription" : {
 							"English" : "A jar full of bitter soapberry jam. Good source of energy.",
+							"French (France)" : "Un pot de confiture amère d'airelles rouges. Bonne source d'énergie.",
 							"Spanish (Spain)" : "Un frasco lleno de mermelada de jaboncillos amarga. Una rica fuente de energía.",
 							"German" : "Ein Glas voller bitterer Seifenbeermarmelade. Ene gute Energiequelle.",
 							"Turkish": "Bir kavanoz dolusu acı böğürtlen reçeli. İyi bir enerji kaynağı.",
@@ -871,6 +995,7 @@
 	},
 	"GAMEPLAY_HerbLeavesHarvested" :{
 							"English" : "Herb leaves",
+							"French (France)" : "Feuilles d'herbes",
 							"Spanish (Spain)" : "Hojas de hierbas",
 							"German" : "Kräuterblätter",
 							"Turkish": "Bitki Yaprakları",
@@ -878,6 +1003,7 @@
 	},
 	"GAMEPLAY_HerbLeavesHarvestedDescription" : {
 							"English" : "A bunch of freshly harvested herb leaves.",
+							"French (France)" : "Quelques feuilles d'herbes fraîches.",
 							"Spanish (Spain)" : "Un puñado de hojas de hierbas recién recogidas.",
 							"German" : "Ein paar frisch geernteter Kräuterblätter.",
 							"Turkish": "Bir demet taze hasat edilmiş bitki yaprağı. Yeni bir bitki için fidan olarak kullanılabilir.",
@@ -885,6 +1011,7 @@
 	},
 	"GAMEPLAY_HerbLeavesHarvestedStackSingle": {
 							"English" : "heap.",
+							"French (France)" : "pile.",
 							"Spanish (Spain)" : "puñado.",
 							"German" : "haufen",
 							"Turkish": "yığın",
@@ -892,6 +1019,7 @@
 	},
 	"GAMEPLAY_HerbLeavesHarvestedStackMultiple" : {
 							"English" : "heaps.",
+							"French (France)" : "piles.",
 							"Spanish (Spain)" : "puñados.",
 							"German" : "haufen",
 							"Turkish": "yığınlar",
@@ -899,6 +1027,7 @@
 	},
 	"GAMEPLAY_HerbLeavesDried" :{
 							"English" : "Dried herb leaves",
+							"French (France)" : "Feuilles d'herbes séchées",
 							"Spanish (Spain)" : "Hojas de hierbas secas",
 							"German" : "Getrocknete Kräuterblätter",
 							"Turkish": "Kurutulmuş bitki yaprakları",
@@ -906,6 +1035,7 @@
 	},
 	"GAMEPLAY_HerbLeavesDriedDescription" : {
 							"English" : "A bunch of dried herb leaves. Can be brewed to make homemade herbal tea.",
+							"French (France)" : "Quelques feuilles d'herbes séchées. Peuvent être infusées pour préparer une tisane maison.",
 							"Spanish (Spain)" : "Un puñado de hojas de hierbas secas. Puede preparar para hacer té de hierbas casero.",
 							"German" : "Ein paar getrocknete Kräuterblätter. Können zur Herstellung von hausgemachtem Kräutertee aufgebrüht werden.",
 							"Turkish": "Bir demet kurutulmuş bitki yaprağı. Ev yapımı bitki çayı yapmak için demlenebilir.",
@@ -913,6 +1043,7 @@
 	},
 	"GAMEPLAY_HerbLeavesDriedStackSingle": {
 							"English" : "heap.",
+							"French (France)" : "pile.",
 							"Spanish (Spain)" : "puñado.",
 							"German" : "haufen.",
 							"Turkish": "yığın",
@@ -920,6 +1051,7 @@
 	},
 	"GAMEPLAY_HerbLeavesDriedStackMultiple" : {
 							"English" : "heaps.",
+							"French (France)" : "piles.",
 							"Spanish (Spain)" : "puñados.",
 							"German" : "haufen.",
 							"Turkish": "yığınlar",
@@ -927,6 +1059,7 @@
 	},		
 	"GAMEPLAY_HerbalTeaHomemade" :{
 							"English" : "Homemade Herbal Tea",
+							"French (France)" : "Tisane Maison",
 							"Spanish (Spain)" : "Té de hierbas casero",
 							"German" : "Hausgemachter Kräutertee",
 							"Turkish": "Ev Yapımı Bitkisel Çay",
@@ -934,6 +1067,7 @@
 	},
 	"GAMEPLAY_HerbalTeaHomemadeDescription" : {
 							"English" : "A cup of homemade herbal tea. Drink it to get a good night sleep.",
+							"French (France)" : "Une tasse de tisane maison, à boire pour une bonne nuit de sommeil.",
 							"Spanish (Spain)" : "Una taza de té de hierbas casero. Bébetela para disfrutar de un bueno descanso nocturno.",
 							"German" : "Eine Tasse hausgemachter Kräutertee. Trinke ihn, um gut schlafen zu können.",
 							"Turkish": "Bir fincan ev yapımı bitki çayı. İyi bir gece uykusu için iç",
@@ -941,6 +1075,7 @@
 	},
 	"GAMEPLAY_HerbalTeaHomemadeAction" : {
 							"English" : "Drink.",
+							"French (France)" : "Boire.",
 							"Spanish (Spain)" : "Beber.",
 							"German" : "Trinken",
 							"Turkish": "İç",
@@ -948,13 +1083,15 @@
 	},	
 	"GAMEPLAY_SeedsSoap" :{
 							"English" : "Soapberry seeds",
+							"French (France)" : "Graines d'Airelle Rouge",
 							"Spanish (Spain)" : "Semillas de jaboncillo",
 							"German" : "Seifenbeersamen",
 							"Turkish": "Böğürtlen tohumları",
 							"Russian": "Семена шефердии"
 	},
 	"GAMEPLAY_SeedsSoapDescription" : {
-							"English" : "A bag of soapberry seeds, most commonly known as buffaloberries. They're know for their bitter taste.",
+							"English" : "A bag of soapberry seeds, most commonly known as buffaloberries. They're known for their bitter taste.",
+							"French (France)" : "Un sachet de graines d'airelles rouges, aussi connues sous le nom de 'buffaloberries'. Le fruit a un goût amer.",
 							"Spanish (Spain)" : "Una bolsa con semillas de jaboncillo. Son conocidos por su sabor amargo.",
 							"German" : "Eine Tüte Seifenbeersamen, häufig auch Büffelbeeren gennant. Sind sie für ihren bitteren Geschmack bekannt.",
 							"Turkish": "En yaygın olarak bufaloberry olarak bilinen bir torba soapberry tohumu. Acı tatlarıyla tanınırlar.",
@@ -962,6 +1099,7 @@
 	},
 	"GAMEPLAY_SeedsBlue" :{
 							"English" : "Blueberry seeds",
+							"French (France)" : "Graines de Myrtille",
 							"Spanish (Spain)" : "Semillas de arándano",
 							"German" : "Blaubeersamen",
 							"Turkish": "Yabanmersini tohumları",
@@ -969,6 +1107,7 @@
 	},
 	"GAMEPLAY_SeedsBlueDescription" : {
 							"English" : "A bag of blueberries. They're know for their sweet taste.",
+							"French (France)" : "Un sachet de graines de myrtille, connues pour leur goût sucré.",
 							"Spanish (Spain)" : "Una bolsa con semillas de arándanos. Son conocidos por su sabor dulce.",
 							"German" : "Eine Tüte Blaubeersamen. Sie sind für ihren süßen Geschmack bekannt.",
 							"Turkish": "Bir torba yabanmersini. Tatlı tatlarıyla tanınırlar",
@@ -976,6 +1115,7 @@
 	},
 	"GAMEPLAY_SeedsHerbs" :{
 							"English" : "Herbal mix seeds",
+							"French (France)" : "Graines d'herbes variées",
 							"Spanish (Spain)" : "Semillas de hierbas",
 							"German" : "Kräutermischung Samen",
 							"Turkish": "Karışık bitki tohumları",
@@ -983,6 +1123,7 @@
 	},
 	"GAMEPLAY_SeedsHerbsDescription" : {
 							"English" : "A bag of mixed herbs seeds. Perfect to grow tea.",
+							"French (France)" : "Un sachet de graines d'herbes variées. Parfaites pour les tisanes.",
 							"Spanish (Spain)" : "Una bolsa con una mezcla semillas de hierbas. Perfectas para cultivar té.",
 							"German" : "Eine Tüte mit gemischten Kräutersamen. Perfekt für den Teeanbau.",
 							"Turkish": "Bir torba karışık bitki tohumu. Çay yetiştirmek için mükemmel.",
@@ -990,6 +1131,7 @@
 	},
 	"GAMEPLAY_SeedsBlueExtracted" :{
 							"English" : "Blueberry seeds",
+							"French (France)" : "Graines de Myrtille",
 							"Spanish (Spain)" : "Semillas de arándano",
 							"German" : "Blaubeersamen",
 							"Turkish": "Yabanmersini tohumları",
@@ -997,6 +1139,7 @@
 	},
 	"GAMEPLAY_SeedsBlueExtractedDescription" : {
 							"English" : "A jar of blueberry seeds. Use them to grow new plants.",
+							"French (France)" : "Un pot de graines de myrtille pour jardiner.",
 							"Spanish (Spain)" : "Un bote con semillas de arándano. Úsalas para crecer nuevas plantas.",
 							"German" : "Ein Glas Blaubeersamen. Verwenden es, um neue Pflanzen zu züchten.",
 							"Turkish": "Bir kavanoz yaban mersini tohumu. Onları yeni bitkiler yetiştirmek için kullanın.",
@@ -1004,6 +1147,7 @@
 	},
 	"GAMEPLAY_SeedsBurdockExtracted" :{
 							"English" : "Burdock seeds",
+							"French (France)" : "Graines de Bardane",
 							"Spanish (Spain)" : "Semillas de bardana",
 							"German" : "Klettensamen",
 							"Turkish": "Dulavratotu tohumu",
@@ -1011,6 +1155,7 @@
 	},
 	"GAMEPLAY_SeedsBurdockExtractedDescription" : {
 							"English" : "A jar of burdock seeds. Use them to grow new plants.",
+							"French (France)" : "Un pot de graines de bardane pour jardiner.",
 							"Spanish (Spain)" : "Un bote con semillas de bardana. Úsalas para crecer nuevas plantas.",
 							"German" : "Ein Glas Klettensamen. Verwenden es, um neue Pflanzen zu züchten.",
 							"Turkish": "Bir kavanoz dulavratotu tohumu. Bunları yeni bitkiler yetiştirmek için kullanın.",
@@ -1018,6 +1163,7 @@
 	},	
 	"GAMEPLAY_SeedsHerbExtracted" :{
 							"English" : "Herb seeds",
+							"French (France)" : "Graines d'herbes variées",
 							"Spanish (Spain)" : "Semillas de hierbas",
 							"German" : "Kräutersamen",
 							"Turkish": "Bitki tohumları",
@@ -1025,6 +1171,7 @@
 	},
 	"GAMEPLAY_SeedsHerbExtractedDescription" : {
 							"English" : "A jar of herb seeds. Use them to grow new plants.",
+							"French (France)" : "Un pot de graines d'herbes variées. Parfaites pour les tisanes.",
 							"Spanish (Spain)" : "Un bote con semillas de hierbas. Úsalas para crecer nuevas plantas.",
 							"German" : "Ein Glas Kräutersamen. Verwenden es, um neue Pflanzen zu züchten.",
 							"Turkish": "Bir kavanoz dolusu bitki tohumu. Bunları yeni bitkiler yetiştirmek için kullanın.",
@@ -1032,6 +1179,7 @@
 	},
 	"GAMEPLAY_SeedsLichenExtracted" :{
 							"English" : "Lichen flakes",
+							"French (France)" : "Flocons de Barbe de Jupiter",
 							"Spanish (Spain)" : "Copos de liquen",
 							"German" : "Bartflechten Floken",
 							"Turkish": "Liken pulları",
@@ -1039,6 +1187,7 @@
 	},
 	"GAMEPLAY_SeedsLichenExtractedDescription" : {
 							"English" : "A jar of lichen flakes. Use them to grow new patches.",
+							"French (France)" : "Un pot de flocons de barbe de jupiter pour jardiner.",
 							"Spanish (Spain)" : "Un bote con copos de liquen. Úsalos para crecer nuevos parches.",
 							"German" : "Ein Glas Bartflechten Floken. Verwenden es, um neue Pflanzen zu züchten.",
 							"Turkish": "Bir kavanoz liken gevreği. Bunları yeni yamalar yetiştirmek için kullanın.",
@@ -1046,6 +1195,7 @@
 	},
 	"GAMEPLAY_SeedsReishiExtracted" :{
 							"English" : "Reishi spores",
+							"French (France)" : "Spores de Reishi",
 							"Spanish (Spain)" : "Esporas de reishi",
 							"German" : "Lackporling Sporen",
 							"Turkish": "Reishi Mantarı Sporları",
@@ -1053,6 +1203,7 @@
 	},
 	"GAMEPLAY_SeedsReishiExtractedDescription" : {
 							"English" : "A jar of reishi spores. Use them to grow new mushrooms.",
+							"French (France)" : "Un pot de spores de reishi. Ne pas respirer, à utliser pour faire de nouvelles colonies de champignons.",
 							"Spanish (Spain)" : "Un bote con esporas de reishi. Úsalas para crecer nuevas setas.",
 							"German" : "Ein Glas Lackporling Sporen. Verwenden es, um neue Pilze zu züchten.",
 							"Turkish": "Bir kavanoz reishi sporu. Onları yeni mantar yetiştirmek için kullanın.",
@@ -1060,6 +1211,7 @@
 	},
 	"GAMEPLAY_SeedsRoseExtracted" :{
 							"English" : "Rose hip seeds",
+							"French (France)" : "Graines d'églantier",
 							"Spanish (Spain)" : "Semillas de escaramujo",
 							"German" : "Hagebuttensamen",
 							"Turkish": "Kuşburnu tohumları",
@@ -1067,6 +1219,7 @@
 	},
 	"GAMEPLAY_SeedsRoseExtractedDescription" : {
 							"English" : "A jar of rose hip seeds. Use them to grow new plants.",
+							"French (France)" : "Un pot de graines d'églantier pour jardiner.",
 							"Spanish (Spain)" : "Un bote con semillas de escaramujo. Úsalas para crecer nuevas plantas.",
 							"German" : "Ein Glas Hagebuttensamen. Verwenden es, um neue Pflanzen zu züchten.",
 							"Turkish": "Bir kavanoz kuşburnu tohumu. Bunları yeni bitkiler yetiştirmek için kullanın.",
@@ -1074,6 +1227,7 @@
 	},
 	"GAMEPLAY_SeedsSoapExtracted" :{
 							"English" : "Soapberry seeds",
+							"French (France)" : "Graines d'Airelle Rouge",
 							"Spanish (Spain)" : "Semillas de jaboncillo",
 							"German" : "Seifenbeersamen",
 							"Turkish": "Sabun üzümü tohumları",
@@ -1081,6 +1235,7 @@
 	},
 	"GAMEPLAY_SeedsSoapExtractedDescription" : {
 							"English" : "A jar of soapberry seeds. Use them to grow new plants.",
+							"French (France)" : "Un pot de graines d'airelles rouges, aussi connues sous le nom de 'buffaloberries'. Le fruit a un goût amer.",
 							"Spanish (Spain)" : "Un bote con semillas de jaboncillo. Úsalas para crecer nuevas plantas.",
 							"German" : "Ein Glas Seifenbeersamen. Verwenden es, um neue Pflanzen zu züchten.",
 							"Turkish": "Bir kavanoz sabun üzümü tohumu. Bunları yeni bitkiler yetiştirmek için kullanın.",
@@ -1088,6 +1243,7 @@
 	},
 	"GAMEPLAY_SeedsCarrotExtracted" :{
 							"English" : "Carrot seeds",
+							"French (France)" : "Graines de Carotte",
 							"Spanish (Spain)" : "Semillas de zanahoria",
 							"German" : "Karottensamen",
 							"Turkish": "Havuç tohumları",
@@ -1095,6 +1251,7 @@
 	},
 	"GAMEPLAY_SeedsCarrotExtractedDescription" : {
 							"English" : "A jar of carrot seeds. Use them to grow new plants.",
+							"French (France)" : "Un pot de graines de carotte, pour jardiner.",
 							"Spanish (Spain)" : "Un bote con semillas de zanahoria. Úsalas para crecer nuevas plantas.",
 							"German" : "Ein Glas Karottensamen. Verwenden es, um neue Pflanzen zu züchten.",
 							"Turkish": "Bir kavanoz havuç tohumu. Onları yeni bitkiler yetiştirmek için kullanın.",
@@ -1102,6 +1259,7 @@
 	},
 	"GAMEPLAY_BagSingle": {
 							"English" : "bag.",
+							"French (France)" : "pile.",
 							"Spanish (Spain)" : "bolsa.",
 							"German" : "Sack",
 							"Turkish": "çanta.",
@@ -1109,6 +1267,7 @@
 	},
 	"GAMEPLAY_BagMultiple" : {
 							"English" : "bags.",
+							"French (France)" : "piles.",
 							"Spanish (Spain)" : "bolsas.",
 							"German" : "Säcke",
 							"Turkish": "çantalar.",
@@ -1116,6 +1275,7 @@
 	},
 	"GAMEPLAY_IG_SeedExtractLabel" :{
 							"English" : "Extract",
+							"French (France)" : "Extrait",
 							"Spanish (Spain)" : "Extraer",
 							"German" : "Extrahieren",
 							"Turkish": "Çıkart",
@@ -1123,6 +1283,7 @@
 	},
 	"GAMEPLAY_IG_ExtractProgressBar" : {
 							"English" : "Extracting...",
+							"French (France)" : "Extraction...",
 							"Spanish (Spain)" : "Extrayendo...",
 							"German" : "Extrahiere...",
 							"Turkish": "Çıkartılıyor",
@@ -1130,6 +1291,7 @@
 	},
 	"GAMEPLAY_IG_SoilLabel" :{
 							"English" : "Fill",
+							"French (France)" : "Remplir",
 							"Spanish (Spain)" : "Llenar",
 							"German" : "Füllen",
 							"Turkish": "Doldur",
@@ -1137,6 +1299,7 @@
 	},
 	"GAMEPLAY_IG_SoilProgressBar" : {
 							"English" : "Filling...",
+							"French (France)" : "Remplissage...",
 							"Spanish (Spain)" : "Llenando...",
 							"German" : "Fülle...",
 							"Turkish": "Dolduruluyor",
@@ -1144,6 +1307,7 @@
 	},
 	"GAMEPLAY_IG_NoSoil" : {
 							"English" : "You don't have enough soil.",
+							"French (France)" : "Vous n'avez pas assez de terre.",
 							"Spanish (Spain)" : "No tienes suficiente tierra.",
 							"German" : "Du hast nicht genug Erde.",
 							"Turkish": "Yeterli toprağınız yok.",
@@ -1151,6 +1315,7 @@
 	},
 	"GAMEPLAY_IG_NoSoilSmall" : {
 							"English" : "You don't have enough soil. You need at least 0.1Kg of soil.",
+							"French (France)" : "Vous n'avez pas assez de terre. Il vous en faut au moins 0.1Kg.",
 							"Spanish (Spain)" : "No tienes suficiente tierra. Necesitas al menos 0.1Kg de tierra.",
 							"German" : "Du hast nicht genug Erde. Du benötigst mindestens 0,1 kg Erde.",
 							"Turkish": "Yeterli toprağınız yok. En az 0,1 kg toprağa ihtiyacınız var.",
@@ -1158,6 +1323,7 @@
 	},
 	"GAMEPLAY_IG_NoSoilMedium" : {
 							"English" : "You don't have enough soil. You need at least 0.2Kg of soil.",
+							"French (France)" : "Vous n'avez pas assez de terre. Il vous en faut au moins 0.2Kg.",
 							"Spanish (Spain)" : "No tienes suficiente tierra. Necesitas al menos 0.2Kg de tierra.",
 							"German" : "Du hast nicht genug Erde. Du benötigst mindestens 0,2 kg Erde.",
 							"Turkish": "Yeterli toprağınız yok. En az 0,2 kg toprağa ihtiyacınız var.",
@@ -1165,6 +1331,7 @@
 	},
 	"GAMEPLAY_IG_NoSoilLarge" : {
 							"English" : "You don't have enough soil. You need at least 0.3Kg of soil.",
+							"French (France)" : "Vous n'avez pas assez de terre. Il vous en faut au moins 0.3Kg.",
 							"Spanish (Spain)" : "No tienes suficiente tierra. Necesitas al menos 0.3Kg de tierra.",
 							"German" : "Du hast nicht genug Erde. Du benötigst mindestens 0,3 kg Erde.",
 							"Turkish": "Yeterli toprağınız yok. En az 0,3 kg toprağa ihtiyacınız var.",
@@ -1172,6 +1339,7 @@
 	},
 	"GAMEPLAY_IG_EmptyLabel" :{
 							"English" : "Empty",
+							"French (France)" : "Vide",
 							"Spanish (Spain)" : "Vaciar",
 							"German" : "Leer",
 							"Turkish": "Boş",
@@ -1179,6 +1347,7 @@
 	},
 	"GAMEPLAY_IG_EmptyProgressBar" : {
 							"English" : "Emptying...",
+							"French (France)" : "Vidage...",
 							"Spanish (Spain)" : "Vaciando...",
 							"German" : "Entleeren...",
 							"Turkish": "Boşaltılıyor...",
@@ -1186,6 +1355,7 @@
 	},
 	"GAMEPLAY_IG_SoilLost" : {
 							"English" : "You have lost soil!",
+							"French (France)" : "Vous avez perdu de la terre!",
 							"Spanish (Spain)" : "¡Has perdido tierra!",
 							"German" : "Du hast Erde verloren!",
 							"Turkish": "Toprağı kaybettiniz!",
@@ -1193,6 +1363,7 @@
 	},
 	"GAMEPLAY_IG_FertilizeLabel" :{
 							"English" : "Fertilize",
+							"French (France)" : "Fertiliser",
 							"Spanish (Spain)" : "Fertilizar",
 							"German" : "Düngen",
 							"Turkish": "Gübrele",
@@ -1200,6 +1371,7 @@
 	},
 	"GAMEPLAY_IG_FertilizeProgressBar" : {
 							"English" : "Fertilizing...",
+							"French (France)" : "Fertilisation",
 							"Spanish (Spain)" : "Fertilizando...",
 							"German" : "Dünge...",
 							"Turkish": "Gübreleniyor",
@@ -1207,6 +1379,7 @@
 	},
 	"GAMEPLAY_IG_NoFertilizer" : {
 							"English" : "You don't have enough fertilizer.",
+							"French (France)" : "Vous n'avez pas assez d'engrais.",
 							"Spanish (Spain)" : "No tienes suficiente fertilizante.",
 							"German" : "Du hast nicht genug Dünger.",
 							"Turkish": "Yeterince gübreniz yok.",
@@ -1214,6 +1387,7 @@
 	},
 	"GAMEPLAY_IG_PlaceLabel" :{
 							"English" : "Place",
+							"French (France)" : "Placer",
 							"Spanish (Spain)" : "Colocar",
 							"German" : "Platzieren",
 							"Turkish": "Yer",
@@ -1221,6 +1395,7 @@
 	},
 	"GAMEPLAY_IG_CleanLabel" :{
 							"English" : "Clean",
+							"French (France)" : "Nettoyer",
 							"Spanish (Spain)" : "Limpiar",
 							"German" : "Sauber",
 							"Turkish": "Temiz",
@@ -1228,6 +1403,7 @@
 	},
 	"GAMEPLAY_IG_CleanProgressBar" : {
 							"English" : "Cleaning...",
+							"French (France)" : "Nettoyage...",
 							"Spanish (Spain)" : "Limpiando...",
 							"German" : "Reinigen...",
 							"Turkish": "Temizleniyor...",
