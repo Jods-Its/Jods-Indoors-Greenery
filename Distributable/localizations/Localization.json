@@ -141,7 +141,7 @@
 							"German" : "flaschen",
 							"Turkish": "Şişeler",
 							"Russian": "бутылки.",
-							"Italian": "Bottiglie"				
+							"Italian": "Bottiglie."				
 	},
 	"GAMEPLAY_HumidKit" : {
                             "English" : "Humid Kit",
@@ -238,7 +238,7 @@
 							"German" : "Eine recycelte Dose voll Erde. Mit etwas Dünger könnte diese als Pflanzgefäß verwendet werden.",
 							"Turkish": "İçi toprak dolu, geri dönüştürülmüş bir kutu. Biraz gübre ile saksı olarak kullanılabilir.",
 							"Russian": "Банка полная почвы. С удобрением это можно использовать для посадки.",
-	    						"Italian": "Una lattina riciclata, riempita di terra. Con un po' di fertilizzante potresti usarlo come una fioriera"
+	    						"Italian": "Una lattina riciclata, riempita di terra. Con un po' di fertilizzante potresti usarla come una fioriera."
     },
 	"GAMEPLAY_DirtPot" : {
                             "English" : "Potted Dirt",
@@ -254,7 +254,7 @@
 							"German" : "Ein Kochtopf voll Erde. Mit etwas Dünger könnte dieser als Pflanzgefäß verwendet werden.",
 							"Turkish": "İçi toprak dolu bir tencere. Biraz gübre ile saksı olarak kullanılabilir.",
 							"Russian": "Кастрлюлька полная почвы. С удобрением это можно использовать для посадки.",
-	    						"Italian": "Una pentola da cucina, riempita di terra. Con un po' di fertilizzante potresti usarlo come una fioriera"
+	    						"Italian": "Una pentola da cucina, riempita di terra. Con un po' di fertilizzante potresti usarla come una fioriera."
     },
 	"GAMEPLAY_DirtBox" : {
                             "English" : "Boxed Dirt",
@@ -270,7 +270,7 @@
 							"German" : "Eine Metallkiste voll Erde. Mit etwas Dünger könnte diese als Pflanzgefäß verwendet werden.",
 							"Turkish": "İçi toprak dolu metal bir kutu. Biraz gübre ile saksı olarak kullanılabilir.",
 							"Russian": "Металлический ящик полный почвы. С удобрением это можно использовать для посадки.",
-	    						"Italian": "Una scatola di metallo, riempita di terra. Con un po' di fertilizzante potresti usarlo come una fioriera"
+	    						"Italian": "Una scatola di metallo, riempita di terra. Con un po' di fertilizzante potresti usarlo come una fioriera."
     },	
 	"GAMEPLAY_DirtHumid" : {
                             "English" : "Boxed Dirt (Kit)",
@@ -286,7 +286,7 @@
 							"German" : "Ein Feuchtset, voll mit Erde und Dünger. Könnte als Pflanzgefäß verwendet werden.",
 							"Turkish": "Toprakla dolu nemli bir kit. Biraz gübre ile saksı olarak kullanılabilir.",
 							"Russian": "Увлажнитель полный почвы. С удобрением это можно использовать для посадки.",
-	    						"Italian": "Un kit di umidità, riempita di terra. Con un po' di fertilizzante potresti usarlo come una fioriera"
+	    						"Italian": "Un kit di umidità, riempito di terra. Con un po' di fertilizzante potresti usarlo come una fioriera."
     },
 	"GAMEPLAY_DeadPlanterSmall" : {
                             "English" : "Withered Planter",
@@ -302,7 +302,7 @@
 							"German" : "Diese Dose war früher ein Pflanzgefäß. Was auch immer hier gepflanzt wurde, ist vor einiger Zeit gestorben.",
 							"Turkish": "Bu eskiden bir saksı olabilir. Buraya her ne ekildiyse bir süre önce ölmüş.",
 							"Russian": "Это банка для посадки. Однако, её содержимое погибло.",
-	    						"Italian": "Questo può essere usato come fioriera. Qualunque cosa è stata piantata qui è morta un po' di tempo fa"
+	    						"Italian": "Questo può essere usato come fioriera. Qualunque cosa è stata piantata qui è morta un po' di tempo fa."
     },
 	"GAMEPLAY_DeadPlanterBig" : {
                             "English" : "Withered Planter",
@@ -318,7 +318,7 @@
 							"German" : "Dieser Kochtopf war einmal ein Pflanzgefäß. Was auch immer hier gepflanzt wurde, ist vor einiger Zeit gestorben.",
 							"Turkish": "Bu saksı eskiden saksı olarak kullanılıyordu. Buraya her ne ekildiyse bir süre önce öldü.",
 							"Russian": "Это кастрюлька для посадки. Однако, её содержимое погибло.",
-	    						"Italian": "Questo può essere usato come fioriera. Qualunque cosa è stata piantata qui è morta un po' di tempo fa"
+	    						"Italian": "Questo può essere usato come fioriera. Qualunque cosa è stata piantata qui è morta un po' di tempo fa."
     },
 	"GAMEPLAY_DeadPlanterBox" : {
                             "English" : "Withered Planter",
@@ -334,7 +334,7 @@
 							"German" : "Diese Metallkiste war einmal ein Pflanzgefäß. Was auch immer hier gepflanzt wurde, ist vor einiger Zeit gestorben.",
 							"Turkish": "Bu kutu eskiden saksı olarak kullanılıyordu. Buraya her ne ekildiyse bir süre önce öldü.",
 							"Russian": "Это ящик для посадки. Однако, его содержимое погибло.",
-	    						"Italian": "Questo può essere usato come fioriera. Qualunque cosa è stata piantata qui è morta un po' di tempo fa"
+	    						"Italian": "Questo può essere usato come fioriera. Qualunque cosa è stata piantata qui è morta un po' di tempo fa."
     },	
 	"GAMEPLAY_DeadPlanterHumid" : {
                             "English" : "Withered Planter",
@@ -350,7 +350,7 @@
 							"German" : "Dieses Feuchtset war einmal ein Pflanzgefäß. Was auch immer hier gepflanzt wurde, ist vor einiger Zeit gestorben.",
 							"Turkish": "Bu nemli kit eskiden saksı olarak kullanılıyordu. Buraya her ne ekildiyse bir süre önce öldü.",
 							"Russian": "Это увлажнитель для посадки. Однако, его содержимое погибло.",
-	    						"Italian": "Questo può essere usato come fioriera. Qualunque cosa è stata piantata qui è morta un po' di tempo fa"
+	    						"Italian": "Questo può essere usato come fioriera. Qualunque cosa è stata piantata qui è morta un po' di tempo fa."
     },
 	"GAMEPLAY_DeadMatter" : {
                             "English" : "Organic Waste",
@@ -702,7 +702,7 @@
 							"German" : "Blaubeerensamen, gepflanzt in einem feuchten Pflanzgefäß. Die Elektronik wird nur bei auroras mit Strom versorgt, aber das Netz darüber sollte Temperatur und Luftfeuchtigkeit aufrechterhalten.",
 							"Turkish": "Nemli bir kit içinde ekilen yaban mersini tohumları. Elektronik aksama yalnızca auroralarda güç verilir, ancak üzerindeki ağ sıcaklığı ve nemi korumalıdır.",
 							"Russian": "Семена черники, посаженные в увлажнитель. Электроника включается только во время полярных сияний, но сетка должна поддерживать температуру и влажность.",
-							"Italian": "Semi di mirtilli, piantati in un kit di umidità. Le parti elettronico sono alimentate solo durante le aurore, ma la rete sopra di essi dovrebbe mantenere la temperatura e l'umidità."
+							"Italian": "Semi di mirtilli, piantati in un kit di umidità. Le parti elettroniche sono alimentate solo durante le aurore, ma la rete sopra di essi dovrebbe mantenere la temperatura e l'umidità."
 	},
 	"GAMEPLAY_PlanterBlueberries1" :{
 							"English" : "Blueberry Planter",
@@ -734,7 +734,7 @@
 							"German" : "Seifenbeerensamen, gepflanzt in einem feuchten Pflanzgefäß. Die Elektronik wird nur bei auroras mit Strom versorgt, aber das Netz darüber sollte Temperatur und Luftfeuchtigkeit aufrechterhalten.",
 							"Turkish": "Böğürtlen tohumları, nemli bir sete ekildi. Elektronik aksama yalnızca auroralarda güç verilir, ancak üzerindeki ağ sıcaklığı ve nemi korumalıdır.",
 							"Russian": "Семена шефердии, посаженные в увлажнитель. Электроника включается только во время полярных сияний, но сетка должна поддерживать температуру и влажность.",
-							"Italian": "Semi di bacche di sapone, piantati in un kit di umidità. Le parti elettronico sono alimentate solo durante le aurore, ma la rete sopra di essi dovrebbe mantenere la temperatura e l'umidità."
+							"Italian": "Semi di bacche di sapone, piantati in un kit di umidità. Le parti elettroniche sono alimentate solo durante le aurore, ma la rete sopra di essi dovrebbe mantenere la temperatura e l'umidità."
 	},
 	"GAMEPLAY_PlanterSoapberries1" :{
 							"English" : "Soapberry Planter",
@@ -766,7 +766,7 @@
 							"German" : "Eine Mischung aus Kräutersamen, gepflanzt in einem feuchten Pflanzgefäß. Die Elektronik wird nur bei auroras mit Strom versorgt, aber das Netz darüber sollte Temperatur und Luftfeuchtigkeit aufrechterhalten.",
 							"Turkish": "Nemli bir kite ekilmiş bitki tohumları karışımı. Elektronik aksama yalnızca auroralarda güç verilir, ancak üzerindeki ağ sıcaklığı ve nemi korumalıdır.",
 							"Russian": "Сбор трав, посаженный в увлажнитель. Электроника включается только во время полярных сияний, но сетка должна поддерживать температуру и влажность.",
-							"Italian": "Un mix di semi di erba, piantati in un kit di umidità. Le parti elettronico sono alimentate solo durante le aurore, ma la rete sopra di essi dovrebbe mantenere la temperatura e l'umidità."
+							"Italian": "Un mix di semi di erba, piantati in un kit di umidità. Le parti elettroniche sono alimentate solo durante le aurore, ma la rete sopra di essi dovrebbe mantenere la temperatura e l'umidità."
 	},
 	"GAMEPLAY_PlanterHerbs1" :{
 							"English" : "Herb Planter",
@@ -1006,7 +1006,7 @@
 							"German" : "Ein paar frisch geernteter Kräuterblätter.",
 							"Turkish": "Bir demet taze hasat edilmiş bitki yaprağı. Yeni bir bitki için fidan olarak kullanılabilir.",
 							"Russian": "Пучок свежесобранных трав.",
-							"Italian": "Un mucchio di foglie di erbe fresche appena raccolte"
+							"Italian": "Un mucchio di foglie di erbe fresche appena raccolte."
 	},
 	"GAMEPLAY_HerbLeavesHarvestedStackSingle": {
 							"English" : "heap.",
@@ -1094,7 +1094,7 @@
 							"German" : "Eine Tüte Seifenbeersamen, häufig auch Büffelbeeren gennant. Sind sie für ihren bitteren Geschmack bekannt.",
 							"Turkish": "En yaygın olarak bufaloberry olarak bilinen bir torba soapberry tohumu. Acı tatlarıyla tanınırlar.",
 							"Russian": "Пакет семян шефердии, она также известна под названиями 'буйволиная ягода' или 'мыльная ягода'. Она известна своим горьким вкусом.",
-							"Italian": "Una busta di semi di bacche di sapone, più comunemente conosciute come bacche di bufalo. Sono conosciute per le il loro gusto amaro."
+							"Italian": "Una busta di semi di bacche di sapone, più comunemente conosciute come bacche di bufalo. Sono conosciute per il loro gusto amaro."
 	},
 	"GAMEPLAY_SeedsBlue" :{
 							"English" : "Blueberry seeds",
