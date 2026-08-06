@@ -329,24 +329,29 @@ namespace IndoorsGreenery
         }
         private static void OnEmptyRecipientFinished(bool success, bool playerCancel, float progress)
         {
-            HUDMessage.AddMessage(Localization.Get("GAMEPLAY_IG_SoilLost"));
+            //HUDMessage.AddMessage(Localization.Get("GAMEPLAY_IG_SoilLost"));
             if (soilItemName == "GEAR_DirtCan")
             {
                 GameManager.GetPlayerManagerComponent().InstantiateItemInPlayerInventory(IGUtils.recipientItem1, 1);
+                GameManager.GetPlayerManagerComponent().InstantiateItemInPlayerInventory(IGUtils.soilBag, 1);
             }
             else if (soilItemName == "GEAR_DirtPot")
             {
                 GameManager.GetPlayerManagerComponent().InstantiateItemInPlayerInventory(IGUtils.recipientItem2, 1);
+                GameManager.GetPlayerManagerComponent().InstantiateItemInPlayerInventory(IGUtils.soilBag, 2);
             }
             else if (soilItemName == "GEAR_DirtHumid")
             {
                 GameManager.GetPlayerManagerComponent().InstantiateItemInPlayerInventory(IGUtils.recipientItem3, 1);
+                GameManager.GetPlayerManagerComponent().InstantiateItemInPlayerInventory(IGUtils.soilBag, 3);
             }
             else
             {
                 GameManager.GetPlayerManagerComponent().InstantiateItemInPlayerInventory(IGUtils.recipientItem4, 1);
+                GameManager.GetPlayerManagerComponent().InstantiateItemInPlayerInventory(IGUtils.soilBag, 3);
             }
 
         }
     }
 }
+
