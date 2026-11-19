@@ -5,7 +5,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 
@@ -310,7 +309,7 @@ namespace IndoorsGreenery
         }
         private static void OnPlacePlanter()
         {
-            var toDrop = placeItem?.m_StackableItem?.m_UnitsPerItem ?? 1;
+            var toDrop = 1;
             toDrop = Mathf.Clamp(toDrop, 0, placeItem?.m_StackableItem?.m_Units ?? 1);
             var dropped = placeItem.Drop(toDrop);
             IGUtils.inventory.OnBack(); 
