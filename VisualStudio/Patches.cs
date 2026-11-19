@@ -133,7 +133,7 @@ namespace IndoorsGreenery
             {
                 if (__instance != null && (__instance.name == "GEAR_SoilBag" || __instance.name == "GEAR_PlantNutrients"))
                 {
-                    __instance.m_StackableItem.m_StackByCondition = true;
+                    //__instance.m_StackableItem.m_StackByCondition = true;
                 }
             }
         }

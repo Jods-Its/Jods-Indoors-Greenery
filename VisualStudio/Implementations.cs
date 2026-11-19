@@ -2,6 +2,7 @@
 using IndoorsGreenery;
 using MelonLoader;
 using UnityEngine;
+using UnityEngine.AddressableAssets;
 
 namespace ModNamespace;
 internal sealed class Implementations : MelonMod
@@ -21,9 +22,16 @@ internal sealed class Implementations : MelonMod
     }
     public override void OnSceneWasInitialized(int level, string name)
     {
+        // Wait until an actual gameplay scene loads so ModComponent bundles are fully registered
+        if (string.IsNullOrEmpty(name) || name == "Boot" || name == "Empty" || name.Contains("MainMenu"))
+        {
+            return;
+        }
+
         if (!loadedCookingTex) // adding pot cooking textures
         {
-            cookableGear.Add("PreparedSoapberries"); 
+            cookableGear.Clear(); // prevents duplicate entries if a scene reload happens before loadedCookingTex = true
+            cookableGear.Add("PreparedSoapberries");
             cookableGear.Add("PreparedBlueberries");
             cookableGear.Add("HerbLeavesDried");
             Material potMat;
@@ -31,7 +39,7 @@ internal sealed class Implementations : MelonMod
 
             for (int i = 0; i < cookableGear.Count; i++)
             {
-                potGear = GearItem.LoadGearItemPrefab("GEAR_" + cookableGear[i]).gameObject;
+                potGear = Addressables.LoadAssetAsync<GameObject>("GEAR_" + cookableGear[i]).WaitForCompletion();
 
                 if (potGear == null) continue;
                 Texture? tex = potGear.transform.Find("POTtexture")?.GetComponent<MeshRenderer>()?.material?.mainTexture;
@@ -53,15 +61,18 @@ internal sealed class Implementations : MelonMod
 
             loadedCookingTex = true;
         }
-
     }
+
     public static Material InstantiateLiquidMaterial()
     {
         if (!vanillaLiquidMaterial)
         {
-            vanillaLiquidMaterial = new Material(GearItem.LoadGearItemPrefab("GEAR_CoffeeCup").gameObject.GetComponent<Cookable>().m_CookingPotMaterialsList[0]);
-
-            vanillaLiquidMaterial.name = "Liquid";
+            GameObject coffeeGear = Addressables.LoadAssetAsync<GameObject>("GEAR_CoffeeCup").WaitForCompletion();
+            if (coffeeGear != null)
+            {
+                vanillaLiquidMaterial = new Material(coffeeGear.GetComponent<Cookable>().m_CookingPotMaterialsList[0]);
+                vanillaLiquidMaterial.name = "Liquid";
+            }
         }
         return new Material(vanillaLiquidMaterial);
     }
